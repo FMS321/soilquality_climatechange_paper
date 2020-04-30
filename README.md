@@ -11,15 +11,22 @@ Four parts of data and scripts are present in this repository
 
 #### (1) Data availability
 
-"Database.csv": Database comprised with total on-farm trials conducted in nine cropping systems of China
-"W-NCP.csv": sub-database comprised with on-farm trials conducted in wheat system of North China Plain (NCP)
+_"W-NCP.csv"_: sub-database comprised with on-farm trials conducted in wheat system of North China Plain (NCP)
+
 "W-YZB.csv": sub-database comprised with on-farm trials conducted in wheat system of Yangtze River Basin (YZB)
+
 "W-NWC.csv": sub-database comprised with on-farm trials conducted in wheat system of Northwest China (NWC)
+
 "M-NEC.csv": sub-database comprised with on-farm trials conducted in maize system of Northeast China (NEC)
+
 "M-NCP.csv": sub-database comprised with on-farm trials conducted in maize systems of North China Plain (NCP)
+
 "M-SWC.csv": sub-database comprised with on-farm trials conducted in maize systems of Southwest China (NCP)
+
 "SR-YZB.csv": sub-database comprised with on-farm trials conducted in single rice system of Yangtze River Basin (YZB)
+
 "ER-SC.csv": sub-database comprised with on-farm trials conducted in early rice system of South China (SC)
+
 "LR-SC.csv": sub-database comprised with on-farm trials conducted in late rice system of South China (SC)
 
 #### (2) R script
