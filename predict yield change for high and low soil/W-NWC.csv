@@ -1,0 +1,540 @@
+Sort,Crop,NO,Year,Province,Tave,Tmax,Tmin,GDD>0,GDD>10,PRE,SSD,RAD,Cultivar,Soil type,Soil texture,SOM,OP,AK,pH,N,P2O5,K2O,Yck,Ynpk
+1,W-NWC,WNWC0001,2007,WNWC01,4.8 ,11.9 ,-0.6 ,1925.0 ,529.9 ,371.1 ,1682.7 ,3719.4 ,large_spike,Cultivated loessial soils,silty clay loam,10.5,28.7,99,8.4,125 ,90 ,41 ,3570 ,7170 
+2,W-NWC,WNWC0002,2008,WNWC01,5.6 ,13.2 ,0.0 ,1933.6 ,524.2 ,209.1 ,1778.7 ,3714.0 ,large_spike,Dark loessial soils,silty clay loam,12.4,19.4,84,8.3,125 ,90 ,41 ,2520 ,6150 
+3,W-NWC,WNWC0003,2008,WNWC01,5.7 ,13.3 ,0.1 ,1973.3 ,543.9 ,209.1 ,1790.4 ,3747.4 ,large_spike,Dark loessial soils,silty clay loam,11.2,19.5,101,8.4,125 ,90 ,41 ,3483 ,6536 
+4,W-NWC,WNWC0004,2008,WNWC01,5.7 ,13.3 ,0.1 ,1973.3 ,543.9 ,209.1 ,1790.4 ,3747.4 ,large_spike,Dark loessial soils,silty clay loam,16.9,20.3,114,8.4,125 ,90 ,41 ,3480 ,6675 
+5,W-NWC,WNWC0005,2008,WNWC01,5.8 ,13.4 ,0.2 ,2012.9 ,563.5 ,209.1 ,1803.4 ,3782.8 ,large_spike,Dark loessial soils,silty clay loam,16.7,19.7,73,8.3,104 ,72 ,35 ,5034 ,7167 
+6,W-NWC,WNWC0006,2008,WNWC01,5.8 ,13.4 ,0.2 ,2012.9 ,563.5 ,209.1 ,1803.4 ,3782.8 ,large_spike,Dark loessial soils,silty clay loam,18.6,34.6,83,8.4,125 ,90 ,41 ,3840 ,6165 
+7,W-NWC,WNWC0007,2005,WNWC01,7.7 ,14.9 ,2.1 ,2097.9 ,638.1 ,204.5 ,1474.9 ,3208.7 ,large_spike,Alluvial?soils,silty clay loam,9,6.3,116,8.4,104 ,72 ,60 ,2300 ,4898 
+8,W-NWC,WNWC0008,2005,WNWC01,7.7 ,14.9 ,2.1 ,2097.9 ,638.1 ,204.5 ,1474.9 ,3208.7 ,large_spike,Alluvial?soils,silty clay loam,9.8,22.6,371,8.5,104 ,72 ,60 ,2258 ,3981 
+9,W-NWC,WNWC0009,2005,WNWC01,7.7 ,14.9 ,2.1 ,2097.9 ,638.1 ,204.5 ,1474.9 ,3208.7 ,large_spike,Alluvial?soils,sandy loam,11.6,9.1,108,8.3,104 ,72 ,60 ,2328 ,4718 
+10,W-NWC,WNWC0010,2007,WNWC01,7.6 ,13.9 ,2.8 ,2276.0 ,711.3 ,214.9 ,1648.3 ,3495.5 ,small_spike,Irrigating warped soils,loam,12.4,18.2,167,8.2,138 ,90 ,72 ,5478 ,6218 
+11,W-NWC,WNWC0011,2007,WNWC01,7.8 ,14.1 ,2.9 ,2325.9 ,743.9 ,272.8 ,1661.7 ,3529.6 ,small_spike,Irrigating warped soils,sandy loam,18.6,28.4,193,8.2,173 ,108 ,113 ,5270 ,5861 
+12,W-NWC,WNWC0012,2007,WNWC01,7.5 ,13.8 ,2.5 ,2173.0 ,687.7 ,154.6 ,1631.2 ,3421.3 ,small_spike,Irrigating warped soils,sandy loam,28.9,32.8,195,8.1,173 ,108 ,113 ,5478 ,6305 
+13,W-NWC,WNWC0013,2008,WNWC01,8.4 ,14.6 ,3.6 ,2330.9 ,738.2 ,178.7 ,1472.0 ,3238.0 ,small_spike,Irrigating warped soils,sandy loam,16.8,26.7,187,8.1,173 ,108 ,113 ,5072 ,5585 
+14,W-NWC,WNWC0014,2008,WNWC01,7.9 ,14.2 ,3.1 ,2096.7 ,649.7 ,164.5 ,1423.5 ,3085.1 ,medium_spike,Irrigating warped soils,sandy loam,24.7,34.3,245,8.3,173 ,108 ,113 ,5648 ,6345 
+15,W-NWC,WNWC0015,2007,WNWC01,7.9 ,14.2 ,3.0 ,2360.8 ,767.7 ,264.5 ,1682.7 ,3573.4 ,small_spike,Irrigating warped soils,loam,10.7,25.3,115,7.9,173 ,108 ,113 ,5555 ,6546 
+16,W-NWC,WNWC0016,2008,WNWC01,8.4 ,14.6 ,3.6 ,2336.0 ,733.3 ,180.3 ,1478.5 ,3248.2 ,medium_spike,Irrigating warped soils,loam,12.2,27,118,8.2,173 ,108 ,113 ,6332 ,7173 
+17,W-NWC,WNWC0017,2007,WNWC01,8.1 ,14.3 ,3.0 ,1855.4 ,562.5 ,107.7 ,966.2 ,2412.6 ,small_spike,Cinnamon soils,loam,11.7,18.8,59,7.9,180 ,90 ,90 ,5634 ,6401 
+18,W-NWC,WNWC0018,2007,WNWC01,8.2 ,14.4 ,3.0 ,1858.5 ,574.5 ,110.7 ,972.5 ,2422.8 ,small_spike,Fluvo-aquic soils,loam,11.3,8.2,114,7.7,150 ,90 ,120 ,4601 ,8133 
+19,W-NWC,WNWC0019,2007,WNWC01,7.4 ,13.4 ,2.3 ,1592.9 ,428.9 ,101.2 ,878.6 ,2182.7 ,small_spike,Fluvo-aquic soils,loam,17.9,4.4,67,8.2,120 ,90 ,60 ,1971 ,2879 
+20,W-NWC,WNWC0020,2008,WNWC01,9.2 ,15.5 ,4.5 ,2330.6 ,729.0 ,182.3 ,1037.6 ,2652.2 ,small_spike,Cinnamon soils,clay,13.3,9.4,167,7.5,120 ,90 ,60 ,4436 ,7104 
+21,W-NWC,WNWC0021,2008,WNWC01,9.2 ,15.4 ,4.6 ,2394.5 ,715.2 ,196.4 ,1061.2 ,2703.5 ,small_spike,Cinnamon soils,clay,14.8,4.3,67,7.5,120 ,90 ,60 ,2523 ,4386 
+22,W-NWC,WNWC0022,2008,WNWC01,8.7 ,15.0 ,4.1 ,2126.3 ,624.2 ,169.5 ,984.2 ,2504.8 ,small_spike,Fluvo-aquic soils,clay,13.1,10,136,7.7,150 ,90 ,120 ,6003 ,8577 
+23,W-NWC,WNWC0023,2008,WNWC01,8.7 ,15.0 ,4.1 ,2113.4 ,621.3 ,169.5 ,983.5 ,2499.9 ,small_spike,Fluvo-aquic soils,loam,11.3,8.8,127,7.7,180 ,90 ,90 ,3851 ,5255 
+24,W-NWC,WNWC0024,2008,WNWC01,8.5 ,14.8 ,3.8 ,1929.6 ,580.0 ,149.3 ,929.5 ,2368.7 ,small_spike,Cinnamon soils,clay,10.9,9.3,128,7.6,120 ,90 ,60 ,1851 ,4827 
+25,W-NWC,WNWC0025,2008,WNWC01,7.0 ,14.9 ,1.0 ,2103.0 ,581.4 ,194.5 ,1359.6 ,3021.6 ,medium_spike,Irrigating warped soils,sandy loam,13.6,8.9,139,8,165 ,75 ,60 ,2118 ,2817 
+26,W-NWC,WNWC0026,2008,WNWC01,7.4 ,15.3 ,1.3 ,2267.4 ,675.8 ,198.2 ,1405.3 ,3148.9 ,medium_spike,Irrigating warped soils,sandy loam,13.4,8.8,119,8.4,165 ,75 ,60 ,1929 ,3656 
+27,W-NWC,WNWC0027,2008,WNWC02,10.6 ,16.1 ,6.5 ,2520.1 ,849.1 ,239.9 ,1155.8 ,2634.6 ,small_spike,Cumulic cinnamon soils,loam,24.5,32.7,268,7.3,210 ,120 ,120 ,3750 ,4333 
+28,W-NWC,WNWC0028,2008,WNWC02,10.6 ,16.1 ,6.5 ,2520.1 ,849.1 ,239.9 ,1155.8 ,2634.6 ,small_spike,Cumulic cinnamon soils,loam,16.7,10.2,167,7.3,210 ,120 ,120 ,4350 ,5850 
+29,W-NWC,WNWC0029,2008,WNWC02,10.6 ,16.1 ,6.5 ,2520.1 ,849.1 ,239.9 ,1155.8 ,2634.6 ,small_spike,Alluvial?soils,sandy loam,26,23.2,199,7.3,210 ,120 ,120 ,4380 ,5150 
+30,W-NWC,WNWC0030,2008,WNWC02,10.6 ,16.1 ,6.5 ,2520.1 ,849.1 ,239.9 ,1155.8 ,2634.6 ,small_spike,Cumulic cinnamon soils,loam,22.4,18.6,251,7.3,210 ,120 ,120 ,5150 ,5300 
+31,W-NWC,WNWC0031,2008,WNWC02,10.6 ,16.1 ,6.5 ,2520.1 ,849.1 ,239.9 ,1155.8 ,2634.6 ,small_spike,Cumulic cinnamon soils,loam,20.3,28.7,259,7.2,210 ,120 ,120 ,4217 ,6194 
+32,W-NWC,WNWC0032,2008,WNWC02,10.6 ,16.1 ,6.5 ,2520.1 ,849.1 ,239.9 ,1155.8 ,2634.6 ,small_spike,Alluvial?soils,sandy loam,24.3,36.2,287,7.1,210 ,120 ,120 ,4100 ,5205 
+33,W-NWC,WNWC0033,2008,WNWC02,10.6 ,16.1 ,6.5 ,2520.1 ,849.1 ,239.9 ,1155.8 ,2634.6 ,small_spike,Fluvo-aquic soils,loam,21.4,31.4,198,7.2,210 ,120 ,120 ,5400 ,6230 
+34,W-NWC,WNWC0034,2008,WNWC02,10.1 ,15.9 ,5.2 ,2492.3 ,821.6 ,264.4 ,1172.2 ,2668.2 ,small_spike,Cumulic cinnamon soils,sandy loam,16.2,45.3,113,7.7,180 ,150 ,75 ,5805 ,6350 
+35,W-NWC,WNWC0035,2008,WNWC02,9.8 ,15.6 ,4.9 ,2294.0 ,743.3 ,229.2 ,1129.9 ,2553.2 ,small_spike,Cumulic cinnamon soils,loam,16.4,71,108,7.5,180 ,150 ,75 ,5179 ,6083 
+36,W-NWC,WNWC0036,2008,WNWC02,9.8 ,15.5 ,4.9 ,2274.0 ,742.6 ,229.2 ,1121.9 ,2535.4 ,small_spike,Cumulic cinnamon soils,loam,16,57.9,86,7.6,180 ,150 ,75 ,4863 ,5883 
+37,W-NWC,WNWC0037,2008,WNWC02,9.8 ,15.6 ,4.9 ,2332.2 ,751.5 ,251.4 ,1141.5 ,2579.9 ,small_spike,Cumulic cinnamon soils,loam,16.9,29.6,82,7.8,180 ,150 ,75 ,5966 ,7043 
+38,W-NWC,WNWC0038,2008,WNWC02,9.9 ,15.7 ,5.1 ,2396.3 ,785.6 ,253.8 ,1152.8 ,2617.3 ,small_spike,Cumulic cinnamon soils,sandy loam,16,22.7,68,7.6,180 ,150 ,75 ,5174 ,5955 
+39,W-NWC,WNWC0039,2008,WNWC02,9.7 ,15.5 ,4.8 ,2204.2 ,742.8 ,224.7 ,1098.4 ,2484.6 ,small_spike,Cumulic cinnamon soils,loam,17.7,73.7,100,7.6,180 ,150 ,75 ,5257 ,6064 
+40,W-NWC,WNWC0040,2008,WNWC02,9.7 ,15.5 ,4.9 ,2252.7 ,741.3 ,229.0 ,1116.4 ,2520.7 ,small_spike,Cumulic cinnamon soils,loam,17.1,36.5,114,7.7,180 ,150 ,75 ,4995 ,6015 
+41,W-NWC,WNWC0041,2008,WNWC02,9.9 ,15.7 ,5.0 ,2323.5 ,772.1 ,229.2 ,1133.2 ,2568.4 ,small_spike,Cumulic cinnamon soils,loam,16.4,35.1,216,7.6,180 ,150 ,75 ,5618 ,6420 
+42,W-NWC,WNWC0042,2007,WNWC02,8.5 ,14.5 ,4.1 ,2250.9 ,692.8 ,250.2 ,1077.9 ,2655.7 ,small_spike,Paddy soils,silty clay loam,20,28.5,356,7,180 ,75 ,105 ,5022 ,7584 
+43,W-NWC,WNWC0043,2007,WNWC02,8.4 ,14.3 ,4.0 ,2193.0 ,654.9 ,249.3 ,1064.9 ,2617.4 ,small_spike,Cumulic cinnamon soils,loam,12.9,13.2,124,7.3,150 ,60 ,60 ,4553 ,7254 
+44,W-NWC,WNWC0044,2007,WNWC02,8.4 ,14.4 ,3.9 ,2172.4 ,653.1 ,239.6 ,1064.9 ,2607.6 ,small_spike,Cumulic cinnamon soils,silty clay loam,18.4,14.8,257,7.1,180 ,75 ,105 ,5022 ,7203 
+45,W-NWC,WNWC0045,2007,WNWC02,8.2 ,14.0 ,3.9 ,2124.9 ,606.8 ,262.3 ,1022.5 ,2527.2 ,small_spike,Alluvial?soils,silty clay loam,16.3,4.4,125,7,180 ,75 ,105 ,4609 ,7808 
+46,W-NWC,WNWC0046,2007,WNWC02,8.5 ,14.5 ,4.1 ,2250.9 ,692.8 ,250.2 ,1077.9 ,2655.7 ,small_spike,Alluvial?soils,sandy loam,13.1,9,121,7.8,180 ,75 ,105 ,4803 ,6398 
+47,W-NWC,WNWC0047,2007,WNWC02,8.1 ,14.1 ,3.6 ,2011.3 ,600.7 ,197.8 ,1034.6 ,2502.4 ,medium_spike,Cumulic cinnamon soils,silty clay loam,17.9,5,73,7.8,180 ,75 ,105 ,3888 ,6174 
+48,W-NWC,WNWC0048,2007,WNWC02,8.1 ,14.1 ,3.6 ,2024.5 ,603.9 ,197.8 ,1040.9 ,2514.9 ,small_spike,Cumulic cinnamon soils,silty clay loam,15.8,17.4,189,7.5,180 ,75 ,105 ,4266 ,7483 
+49,W-NWC,WNWC0049,2006,WNWC02,10.5 ,16.7 ,5.2 ,2477.3 ,874.6 ,124.3 ,1284.1 ,2820.5 ,small_spike,Irrigating warped soils,loam,13.2,23.3,135,8,90 ,60 ,60 ,5520 ,6170 
+50,W-NWC,WNWC0050,2006,WNWC02,10.6 ,16.9 ,5.4 ,2552.8 ,910.1 ,124.3 ,1304.3 ,2865.2 ,small_spike,Irrigating warped soils,loam,17.2,25,180,7.9,90 ,60 ,60 ,5270 ,9055 
+51,W-NWC,WNWC0051,2006,WNWC02,10.6 ,16.8 ,5.4 ,2525.8 ,903.1 ,124.3 ,1292.5 ,2845.8 ,small_spike,Irrigating warped soils,clay loam,10.6,32.9,185,8.1,90 ,60 ,60 ,5550 ,7320 
+52,W-NWC,WNWC0052,2006,WNWC02,10.6 ,16.8 ,5.4 ,2518.7 ,906.0 ,124.3 ,1298.5 ,2854.4 ,small_spike,Irrigating warped soils,loam,13.9,24.5,205,8,90 ,60 ,60 ,4860 ,9315 
+53,W-NWC,WNWC0053,2006,WNWC02,10.4 ,16.7 ,5.2 ,2471.4 ,858.7 ,124.3 ,1284.0 ,2810.4 ,small_spike,Irrigating warped soils,loam,7.4,36.7,120,7.9,90 ,60 ,60 ,4170 ,7080 
+54,W-NWC,WNWC0054,2007,WNWC02,9.1 ,15.0 ,4.2 ,2236.2 ,743.2 ,134.0 ,1237.9 ,2760.3 ,small_spike,Irrigating warped soils,loam,10,14.7,200,7.8,210 ,180 ,135 ,7065 ,7830 
+55,W-NWC,WNWC0055,2007,WNWC02,9.1 ,15.1 ,4.2 ,2234.8 ,751.8 ,134.0 ,1233.9 ,2757.7 ,small_spike,Irrigating warped soils,loam,17,20.6,200,7.9,210 ,180 ,135 ,5730 ,7260 
+56,W-NWC,WNWC0056,2007,WNWC02,9.2 ,15.2 ,4.3 ,2291.4 ,768.4 ,134.0 ,1262.1 ,2809.8 ,small_spike,Irrigating warped soils,loam,16,16.1,170,7.5,210 ,180 ,135 ,6750 ,6795 
+57,W-NWC,WNWC0057,2007,WNWC02,9.4 ,15.4 ,4.5 ,2358.0 ,805.0 ,134.0 ,1271.5 ,2840.8 ,small_spike,Cumulic cinnamon soils,clay loam,17,20.6,200,7.9,210 ,180 ,135 ,6345 ,8040 
+58,W-NWC,WNWC0058,2007,WNWC02,9.2 ,15.2 ,4.3 ,2312.8 ,759.8 ,133.6 ,1281.0 ,2837.1 ,small_spike,Cumulic cinnamon soils,clay loam,15,30.6,300,7.8,210 ,180 ,135 ,7785 ,7845 
+59,W-NWC,WNWC0059,2007,WNWC02,9.3 ,15.3 ,4.4 ,2332.6 ,779.6 ,134.0 ,1289.6 ,2857.6 ,small_spike,Irrigating warped soils,loam,19,19,180,7.8,210 ,180 ,135 ,8130 ,8790 
+60,W-NWC,WNWC0060,2007,WNWC02,9.2 ,15.2 ,4.3 ,2324.7 ,761.7 ,148.0 ,1281.0 ,2841.7 ,small_spike,Irrigating warped soils,loam,19,18.8,190,7.8,210 ,180 ,135 ,7095 ,7845 
+61,W-NWC,WNWC0061,2008,WNWC02,9.3 ,15.3 ,4.5 ,2216.0 ,693.7 ,218.1 ,1223.6 ,2691.0 ,small_spike,Cumulic cinnamon soils,clay loam,18.8,36.9,310,8.4,270 ,150 ,120 ,6000 ,9600 
+62,W-NWC,WNWC0062,2008,WNWC02,9.2 ,15.3 ,4.4 ,2185.2 ,682.9 ,217.9 ,1223.6 ,2682.4 ,small_spike,Fluvo-aquic soils,sandy loam,19,14.4,180,7.7,270 ,150 ,120 ,6600 ,7800 
+63,W-NWC,WNWC0063,2008,WNWC02,9.3 ,15.4 ,4.5 ,2224.6 ,702.3 ,225.6 ,1231.7 ,2707.1 ,small_spike,Irrigating warped soils,loam,14,35.4,340,8.1,210 ,180 ,135 ,8400 ,8700 
+64,W-NWC,WNWC0064,2008,WNWC02,9.3 ,15.4 ,4.5 ,2224.6 ,702.3 ,225.6 ,1231.7 ,2707.1 ,small_spike,Irrigating warped soils,loam,13.2,32.4,290,8.1,210 ,180 ,135 ,8400 ,8700 
+65,W-NWC,WNWC0065,2008,WNWC02,9.2 ,15.3 ,4.4 ,2185.2 ,682.9 ,217.9 ,1223.6 ,2682.4 ,small_spike,Irrigating warped soils,loam,14.5,31.7,190,8.2,210 ,180 ,135 ,7800 ,10500 
+66,W-NWC,WNWC0066,2007,WNWC02,9.2 ,14.4 ,5.4 ,2161.3 ,715.7 ,154.3 ,1279.8 ,2778.2 ,medium_spike,Cultivated loessial soils,loam,16.3,17.6,162,7.4,180 ,120 ,75 ,5940 ,6600 
+67,W-NWC,WNWC0067,2007,WNWC02,9.2 ,14.4 ,5.4 ,2161.3 ,715.7 ,154.3 ,1279.8 ,2778.2 ,medium_spike,Cumulic cinnamon soils,sandy loam,17.5,15.5,143,8.1,180 ,120 ,75 ,5850 ,6900 
+68,W-NWC,WNWC0068,2007,WNWC02,9.2 ,14.4 ,5.4 ,2161.3 ,715.7 ,154.3 ,1279.8 ,2778.2 ,medium_spike,Cumulic cinnamon soils,sandy loam,21.8,20.1,110,8,180 ,120 ,75 ,6915 ,7425 
+69,W-NWC,WNWC0069,2007,WNWC02,9.3 ,14.6 ,5.5 ,2218.0 ,732.4 ,154.3 ,1305.3 ,2826.7 ,medium_spike,Cumulic cinnamon soils,loam,14.5,19,149,8,180 ,120 ,75 ,6630 ,7335 
+70,W-NWC,WNWC0070,2007,WNWC02,9.2 ,14.4 ,5.4 ,2161.3 ,715.7 ,154.3 ,1279.8 ,2778.2 ,medium_spike,Cumulic cinnamon soils,loam,19.5,19.1,150,7.5,180 ,120 ,75 ,6450 ,7125 
+71,W-NWC,WNWC0071,2007,WNWC02,9.2 ,14.4 ,5.4 ,2161.3 ,715.7 ,154.3 ,1279.8 ,2778.2 ,medium_spike,Cumulic cinnamon soils,sandy loam,17.8,21.4,125,7.8,180 ,120 ,75 ,6900 ,7425 
+72,W-NWC,WNWC0072,2008,WNWC02,10.0 ,15.5 ,6.2 ,2418.8 ,747.3 ,273.3 ,1397.3 ,2916.1 ,medium_spike,Cumulic cinnamon soils,silty clay loam,14.8,10.9,142,7.6,180 ,120 ,75 ,4601 ,6992 
+73,W-NWC,WNWC0073,2008,WNWC02,10.1 ,15.6 ,6.3 ,2449.2 ,757.7 ,273.6 ,1401.6 ,2931.3 ,medium_spike,Cumulic cinnamon soils,silty clay loam,17.4,26.9,141,7.6,180 ,120 ,75 ,4901 ,7251 
+74,W-NWC,WNWC0074,2008,WNWC02,10.3 ,15.8 ,6.5 ,2553.5 ,812.0 ,304.1 ,1445.7 ,3026.0 ,medium_spike,Cumulic cinnamon soils,silty clay loam,16.7,28.5,141,8.1,180 ,120 ,75 ,4901 ,7901 
+75,W-NWC,WNWC0075,2008,WNWC02,10.3 ,15.8 ,6.5 ,2574.3 ,812.8 ,304.5 ,1442.1 ,3020.1 ,medium_spike,Cumulic cinnamon soils,silty clay loam,17.3,12.6,173,7.2,180 ,120 ,75 ,6503 ,7500 
+76,W-NWC,WNWC0076,2008,WNWC02,10.1 ,15.6 ,6.3 ,2476.2 ,774.7 ,273.6 ,1413.8 ,2958.3 ,medium_spike,Cumulic cinnamon soils,loam,16.1,44.2,194,7.8,180 ,120 ,75 ,3251 ,3750 
+77,W-NWC,WNWC0077,2008,WNWC02,10.2 ,15.7 ,6.3 ,2474.8 ,783.3 ,273.3 ,1421.6 ,2969.9 ,medium_spike,Cumulic cinnamon soils,silty clay loam,18.4,43.8,205,8.2,180 ,120 ,75 ,4500 ,5801 
+78,W-NWC,WNWC0078,2008,WNWC02,10.3 ,15.8 ,6.5 ,2532.7 ,811.2 ,273.6 ,1435.4 ,3007.8 ,medium_spike,Fluvo-aquic soils,silty clay loam,16.6,9.1,126,7.8,180 ,120 ,75 ,4334 ,6718 
+79,W-NWC,WNWC0079,2008,WNWC02,10.2 ,15.7 ,6.4 ,2505.2 ,783.7 ,304.1 ,1422.6 ,2979.7 ,medium_spike,Cumulic cinnamon soils,silty clay loam,22.1,34.1,221,8.1,180 ,120 ,75 ,5767 ,7268 
+80,W-NWC,WNWC0080,2007,WNWC02,9.2 ,14.4 ,5.4 ,2161.3 ,715.7 ,154.3 ,1279.8 ,2778.2 ,medium_spike,Cumulic cinnamon soils,loam,14.8,23.7,118,6.8,180 ,120 ,75 ,6645 ,7335 
+81,W-NWC,WNWC0081,2007,WNWC02,9.2 ,14.4 ,5.4 ,2161.3 ,715.7 ,154.3 ,1279.8 ,2778.2 ,medium_spike,Fluvo-aquic soils,loam,16.5,21.1,139,7.9,180 ,120 ,75 ,6495 ,7305 
+82,W-NWC,WNWC0082,2008,WNWC02,10.3 ,15.8 ,6.5 ,2553.5 ,812.0 ,304.1 ,1445.7 ,3026.0 ,medium_spike,Fluvo-aquic soils,loam,16.2,33.2,102,7.4,180 ,120 ,75 ,3750 ,6000 
+83,W-NWC,WNWC0083,2007,WNWC02,9.2 ,14.4 ,5.4 ,2161.3 ,715.7 ,154.3 ,1279.8 ,2778.2 ,medium_spike,Fluvo-aquic soils,sandy loam,15.5,17.7,133,7.6,180 ,120 ,75 ,5843 ,6897 
+84,W-NWC,WNWC0084,2007,WNWC02,9.2 ,14.4 ,5.4 ,2161.3 ,715.7 ,154.3 ,1279.8 ,2778.2 ,medium_spike,Cumulic cinnamon soils,sandy loam,16.2,23.7,173,7,180 ,120 ,75 ,5775 ,6525 
+85,W-NWC,WNWC0085,2008,WNWC02,10.3 ,15.8 ,6.5 ,2553.5 ,812.0 ,304.1 ,1445.7 ,3026.0 ,medium_spike,Fluvo-aquic soils,silty clay loam,16.1,11.8,104,7.5,180 ,120 ,75 ,4502 ,6600 
+86,W-NWC,WNWC0086,2007,WNWC02,9.5 ,14.6 ,5.7 ,2299.0 ,758.8 ,119.6 ,1040.6 ,2525.3 ,small_spike,Paddy soils,sandy loam,12.4,17.2,76,7.7,180 ,75 ,150 ,3346 ,4883 
+87,W-NWC,WNWC0087,2007,WNWC02,9.3 ,14.4 ,5.5 ,2220.5 ,720.3 ,119.6 ,1008.5 ,2454.2 ,small_spike,Cumulic cinnamon soils,loam,12.4,31,102,7.1,180 ,75 ,150 ,5018 ,6402 
+88,W-NWC,WNWC0088,2007,WNWC02,9.0 ,14.0 ,5.3 ,2130.9 ,660.7 ,119.6 ,973.9 ,2371.9 ,small_spike,Cumulic cinnamon soils,loam,13.6,15.9,81,7.5,180 ,75 ,150 ,4500 ,6756 
+89,W-NWC,WNWC0089,2008,WNWC02,9.9 ,14.8 ,6.3 ,2318.9 ,677.8 ,227.6 ,1145.2 ,2563.2 ,small_spike,Cumulic cinnamon soils,loam,13.7,20,78,7.4,240 ,120 ,150 ,4382 ,7865 
+90,W-NWC,WNWC0090,2008,WNWC02,10.0 ,15.0 ,6.3 ,2323.6 ,702.5 ,218.7 ,1156.5 ,2595.6 ,small_spike,Paddy soils,sandy loam,10.4,16.5,90,7.9,210 ,75 ,120 ,4085 ,4950 
+91,W-NWC,WNWC0091,2008,WNWC02,10.0 ,15.0 ,6.3 ,2323.6 ,702.5 ,218.7 ,1156.5 ,2595.6 ,small_spike,Fluvo-aquic soils,loam,16,16.9,125,7.2,225 ,90 ,150 ,4703 ,8124 
+92,W-NWC,WNWC0092,2007,WNWC02,8.9 ,13.9 ,5.2 ,2067.8 ,637.6 ,119.6 ,949.9 ,2319.3 ,small_spike,Alluvial?soils,loam,14,12.5,100,7,180 ,75 ,150 ,6047 ,7970 
+93,W-NWC,WNWC0093,2007,WNWC02,9.0 ,14.0 ,5.3 ,2098.7 ,658.5 ,119.6 ,966.3 ,2356.1 ,small_spike,Alluvial?soils,loam,11.6,21.7,120,6.8,180 ,75 ,150 ,3527 ,6733 
+94,W-NWC,WNWC0094,2008,WNWC02,10.1 ,15.1 ,6.4 ,2387.8 ,726.7 ,227.6 ,1172.1 ,2633.0 ,small_spike,Alluvial?soils,loam,14.9,13,128,7,210 ,75 ,120 ,5008 ,8284 
+95,W-NWC,WNWC0095,2007,WNWC02,9.4 ,14.5 ,5.6 ,2229.2 ,739.0 ,119.6 ,1017.1 ,2474.6 ,small_spike,Cumulic cinnamon soils,clay loam,14.2,36,115,7.1,180 ,75 ,150 ,4800 ,6383 
+96,W-NWC,WNWC0096,2008,WNWC02,9.9 ,14.8 ,6.2 ,2287.9 ,676.8 ,226.8 ,1137.8 ,2553.0 ,small_spike,Cumulic cinnamon soils,clay loam,13.5,8.8,113,7.3,240 ,120 ,150 ,4722 ,7985 
+97,W-NWC,WNWC0097,2007,WNWC02,9.8 ,14.9 ,6.0 ,2400.4 ,840.2 ,124.7 ,1043.6 ,2569.4 ,small_spike,Alluvial?soils,loam,14.2,21.8,96,7.6,180 ,75 ,150 ,5948 ,8337 
+98,W-NWC,WNWC0098,2008,WNWC02,10.1 ,15.1 ,6.4 ,2368.9 ,727.8 ,226.8 ,1174.5 ,2634.1 ,small_spike,Alluvial?soils,loam,16,13.5,146,7.5,225 ,90 ,150 ,4623 ,8124 
+99,W-NWC,WNWC0099,2007,WNWC02,9.4 ,14.5 ,5.6 ,2284.9 ,754.7 ,119.6 ,1033.7 ,2512.3 ,small_spike,Paddy soils,loam,14.9,18.7,92,7.5,180 ,75 ,150 ,4103 ,5909 
+100,W-NWC,WNWC0100,2007,WNWC02,9.2 ,14.3 ,5.5 ,2194.3 ,704.1 ,119.6 ,997.7 ,2429.5 ,medium_spike,Fluvo-aquic soils,clay loam,13.1,29.6,147,8,180 ,75 ,150 ,4179 ,7607 
+101,W-NWC,WNWC0101,2008,WNWC02,10.0 ,14.9 ,6.3 ,2313.9 ,692.8 ,226.8 ,1149.8 ,2579.6 ,small_spike,Cumulic cinnamon soils,clay loam,22.5,9.6,102,7.5,240 ,120 ,150 ,4350 ,5250 
+102,W-NWC,WNWC0102,2008,WNWC02,10.1 ,15.0 ,6.4 ,2356.1 ,715.0 ,227.3 ,1162.6 ,2612.1 ,small_spike,Fluvo-aquic soils,clay loam,15.7,27.8,98,7.4,240 ,120 ,150 ,4320 ,8047 
+103,W-NWC,WNWC0103,2007,WNWC02,9.2 ,14.2 ,5.4 ,2180.0 ,699.8 ,119.6 ,992.7 ,2419.0 ,small_spike,Cultivated loessial soils,loam,12.3,36,113,6.7,180 ,75 ,150 ,3207 ,6807 
+104,W-NWC,WNWC0104,2008,WNWC02,9.9 ,14.9 ,6.2 ,2283.1 ,682.0 ,212.7 ,1143.7 ,2563.3 ,small_spike,Cultivated loessial soils,loam,14.1,41.2,104,6.8,210 ,75 ,120 ,4223 ,6809 
+105,W-NWC,WNWC0105,2008,WNWC02,9.9 ,14.9 ,6.3 ,2303.6 ,682.5 ,227.3 ,1137.8 ,2557.5 ,small_spike,Alluvial?soils,clay loam,15.4,33.4,140,7,225 ,90 ,150 ,3877 ,6353 
+106,W-NWC,WNWC0106,2008,WNWC02,8.8 ,15.1 ,3.9 ,2175.1 ,674.1 ,216.8 ,1484.9 ,3043.7 ,small_spike,Irrigating warped soils,loam,12.1,12.6,136,7.8,210 ,150 ,75 ,5130 ,7860 
+107,W-NWC,WNWC0107,2008,WNWC02,8.8 ,15.1 ,3.8 ,2254.7 ,664.7 ,224.1 ,1241.1 ,2737.5 ,small_spike,Cumulic cinnamon soils,silty clay loam,13.1,35.7,180,8.3,225 ,135 ,75 ,5037 ,7596 
+108,W-NWC,WNWC0108,2009,WNWC02,7.7 ,13.9 ,2.8 ,1925.7 ,605.5 ,213.9 ,1132.4 ,2605.1 ,small_spike,Cumulic cinnamon soils,silty clay loam,12.4,21.7,165,8.4,225 ,150 ,75 ,4541 ,7425 
+109,W-NWC,WNWC0109,2009,WNWC02,7.7 ,13.9 ,2.8 ,1911.6 ,601.4 ,213.9 ,1125.7 ,2592.1 ,small_spike,Alluvial?soils,sandy loam,14.2,28.3,143,8.4,255 ,150 ,113 ,4427 ,7587 
+110,W-NWC,WNWC0110,2008,WNWC02,8.8 ,15.0 ,3.8 ,2218.5 ,648.5 ,223.6 ,1230.1 ,2713.1 ,small_spike,Cultivated loessial soils,silty clay loam,12.6,25.1,173,8.3,225 ,150 ,75 ,4574 ,7283 
+111,W-NWC,WNWC0111,2009,WNWC02,7.7 ,13.9 ,2.8 ,1925.7 ,605.5 ,213.9 ,1132.4 ,2605.1 ,small_spike,Cumulic cinnamon soils,clay loam,11.6,17.4,177,8.6,225 ,135 ,75 ,3977 ,6734 
+112,W-NWC,WNWC0112,2008,WNWC02,8.8 ,15.1 ,3.8 ,2217.5 ,657.5 ,193.3 ,1234.1 ,2719.1 ,small_spike,Cumulic cinnamon soils,silty clay loam,11.2,26.7,147,8.3,210 ,120 ,45 ,4173 ,6965 
+113,W-NWC,WNWC0113,2008,WNWC02,8.8 ,15.1 ,3.8 ,2217.5 ,657.5 ,193.3 ,1234.1 ,2719.1 ,medium_spike,Cumulic cinnamon soils,silty clay loam,9.6,21.4,138,8.3,218 ,135 ,30 ,3680 ,6554 
+114,W-NWC,WNWC0114,2008,WNWC02,8.7 ,15.0 ,3.7 ,2176.4 ,636.4 ,193.2 ,1223.6 ,2690.1 ,medium_spike,Cumulic cinnamon soils,silty clay loam,11.9,23.4,127,8.4,195 ,120 ,45 ,3834 ,6884 
+115,W-NWC,WNWC0115,2009,WNWC02,7.7 ,13.9 ,2.8 ,1931.4 ,611.2 ,213.9 ,1131.9 ,2609.5 ,medium_spike,Cumulic cinnamon soils,clay loam,10.2,15.4,164,8.6,195 ,120 ,45 ,4392 ,6957 
+116,W-NWC,WNWC0116,2009,WNWC02,7.7 ,14.0 ,2.9 ,1939.9 ,619.7 ,213.9 ,1127.2 ,2608.3 ,medium_spike,Cumulic cinnamon soils,clay loam,8.5,16.7,193,8.7,225 ,143 ,60 ,3822 ,6792 
+117,W-NWC,WNWC0117,2008,WNWC02,9.0 ,15.3 ,4.0 ,2318.3 ,708.3 ,236.2 ,1251.5 ,2777.2 ,medium_spike,Cumulic cinnamon soils,silty clay loam,12.7,35.1,154,8.5,210 ,120 ,30 ,3806 ,6042 
+118,W-NWC,WNWC0118,2008,WNWC02,8.9 ,15.2 ,3.9 ,2256.5 ,676.5 ,223.6 ,1242.2 ,2744.4 ,medium_spike,Cumulic cinnamon soils,silty clay loam,16.7,40.6,173,8.5,210 ,135 ,30 ,4256 ,7175 
+119,W-NWC,WNWC0119,2009,WNWC02,7.8 ,14.1 ,2.9 ,1979.3 ,639.1 ,213.9 ,1147.3 ,2649.1 ,medium_spike,Cumulic cinnamon soils,clay loam,9.6,20.8,162,8.6,210 ,135 ,60 ,4025 ,6728 
+120,W-NWC,WNWC0120,2008,WNWC02,7.6 ,12.9 ,3.5 ,1946.6 ,529.6 ,179.3 ,1628.4 ,3209.4 ,medium_spike,Cumulic cinnamon soils,loam,11.1,30.3,146,8.1,225 ,105 ,75 ,4258 ,6434 
+121,W-NWC,WNWC0121,2008,WNWC02,7.5 ,12.8 ,3.4 ,1926.8 ,509.8 ,170.2 ,1628.5 ,3200.2 ,medium_spike,Cumulic cinnamon soils,loam,13.2,28.3,162,8.2,225 ,105 ,75 ,4202 ,6362 
+122,W-NWC,WNWC0122,2009,WNWC02,6.6 ,12.1 ,2.4 ,1770.2 ,516.0 ,201.2 ,1514.6 ,3092.4 ,small_spike,Cumulic cinnamon soils,loam,14.1,24.1,200,8.1,270 ,90 ,60 ,3082 ,7102 
+123,W-NWC,WNWC0123,2009,WNWC02,6.6 ,12.2 ,2.5 ,1808.4 ,524.2 ,201.2 ,1545.7 ,3144.9 ,medium_spike,Cumulic cinnamon soils,loam,12.7,17.1,145,8.2,270 ,90 ,60 ,2740 ,7199 
+124,W-NWC,WNWC0124,2008,WNWC02,7.5 ,12.8 ,3.4 ,1915.8 ,498.8 ,170.2 ,1623.2 ,3187.2 ,medium_spike,Cumulic cinnamon soils,loam,14.7,40.1,156,8,300 ,105 ,75 ,4605 ,6740 
+125,W-NWC,WNWC0125,2008,WNWC02,7.5 ,12.8 ,3.4 ,1939.5 ,512.5 ,170.2 ,1633.9 ,3211.8 ,medium_spike,Cumulic cinnamon soils,loam,12.4,35.6,175,8.1,225 ,105 ,75 ,3722 ,6517 
+126,W-NWC,WNWC0126,2008,WNWC02,8.1 ,13.4 ,3.9 ,2162.7 ,615.7 ,209.5 ,1724.9 ,3423.9 ,small_spike,Cumulic cinnamon soils,loam,14.3,21.3,156,8.3,225 ,105 ,75 ,2788 ,5763 
+127,W-NWC,WNWC0127,2009,WNWC02,6.3 ,11.8 ,2.2 ,1687.5 ,453.3 ,201.9 ,1510.9 ,3041.0 ,medium_spike,Cumulic cinnamon soils,loam,26.8,33.7,214,8.3,270 ,90 ,60 ,2823 ,6836 
+128,W-NWC,WNWC0128,2009,WNWC02,6.4 ,11.9 ,2.3 ,1735.1 ,480.9 ,201.2 ,1513.8 ,3071.5 ,small_spike,Cumulic cinnamon soils,loam,11.3,12.5,211,8.2,311 ,126 ,90 ,3555 ,7222 
+129,W-NWC,WNWC0129,2008,WNWC02,7.7 ,13.0 ,3.6 ,1992.0 ,555.0 ,179.3 ,1646.8 ,3253.8 ,medium_spike,Cumulic cinnamon soils,loam,13.5,17.6,187,8,300 ,105 ,75 ,4411 ,6581 
+130,W-NWC,WNWC0130,2009,WNWC02,6.5 ,12.0 ,2.3 ,1745.1 ,490.9 ,201.2 ,1512.7 ,3076.2 ,medium_spike,Cumulic cinnamon soils,loam,13.4,25.4,169,8.2,285 ,108 ,68 ,3115 ,7046 
+131,W-NWC,WNWC0131,2009,WNWC02,6.3 ,11.8 ,2.2 ,1681.4 ,457.2 ,201.2 ,1490.8 ,3018.8 ,small_spike,Cumulic cinnamon soils,loam,17.5,24.9,170,8.1,300 ,108 ,75 ,2978 ,7324 
+132,W-NWC,WNWC0132,2008,WNWC02,7.6 ,12.9 ,3.5 ,1960.4 ,523.4 ,173.7 ,1637.1 ,3224.4 ,medium_spike,Cumulic cinnamon soils,loam,16.1,15.6,221,8.3,225 ,105 ,75 ,4277 ,6239 
+133,W-NWC,WNWC0133,2008,WNWC02,7.6 ,12.9 ,3.5 ,1960.4 ,523.4 ,173.7 ,1637.1 ,3224.4 ,medium_spike,Cumulic cinnamon soils,sandy loam,14.9,23.1,152,8.1,225 ,105 ,75 ,3738 ,6542 
+134,W-NWC,WNWC0134,2009,WNWC02,6.3 ,11.9 ,2.2 ,1701.4 ,467.2 ,201.2 ,1498.5 ,3038.6 ,medium_spike,Cumulic cinnamon soils,loam,13.7,28.4,153,8,330 ,108 ,75 ,3045 ,6985 
+135,W-NWC,WNWC0135,2009,WNWC02,6.4 ,11.9 ,2.3 ,1710.2 ,476.0 ,201.2 ,1493.7 ,3037.2 ,small_spike,Cumulic cinnamon soils,loam,12.6,15.6,221,8.3,300 ,126 ,75 ,2845 ,6973 
+136,W-NWC,WNWC0136,2008,WNWC02,7.7 ,13.0 ,3.6 ,1992.0 ,555.0 ,179.3 ,1646.8 ,3253.8 ,medium_spike,Cultivated loessial soils,loam,15.3,32.4,131,8,300 ,105 ,75 ,4641 ,6768 
+137,W-NWC,WNWC0137,2008,WNWC02,7.7 ,12.9 ,3.5 ,1981.6 ,534.6 ,179.3 ,1645.1 ,3244.6 ,small_spike,Cultivated loessial soils,loam,16.6,28.6,132,8,300 ,105 ,75 ,4236 ,6898 
+138,W-NWC,WNWC0138,2009,WNWC02,6.3 ,11.8 ,2.2 ,1677.4 ,453.2 ,201.2 ,1495.1 ,3019.2 ,medium_spike,Cultivated loessial soils,loam,12.9,27.7,192,8.3,285 ,108 ,60 ,2951 ,6836 
+139,W-NWC,WNWC0139,2009,WNWC02,6.1 ,11.6 ,2.1 ,1643.3 ,419.1 ,188.3 ,1483.0 ,2978.2 ,medium_spike,Cultivated loessial soils,loam,16.2,19.6,156,8.1,315 ,120 ,75 ,3238 ,7312 
+140,W-NWC,WNWC0140,2008,WNWC02,7.7 ,13.0 ,3.6 ,1968.9 ,541.9 ,179.3 ,1635.7 ,3228.6 ,medium_spike,Cultivated loessial soils,loam,13.2,25.8,187,8.1,225 ,105 ,75 ,3794 ,6606 
+141,W-NWC,WNWC0141,2009,WNWC02,7.7 ,13.9 ,2.8 ,1931.4 ,611.2 ,213.9 ,1131.9 ,2609.5 ,medium_spike,Alluvial?soils,clay loam,11.8,15.1,113,8.2,240 ,150 ,105 ,4292 ,6819 
+142,W-NWC,WNWC0142,2008,WNWC02,8.8 ,15.1 ,3.8 ,2236.6 ,656.6 ,223.6 ,1240.5 ,2731.7 ,medium_spike,Alluvial?soils,silty clay loam,13.1,26.7,141,8.2,255 ,150 ,105 ,4868 ,7391 
+143,W-NWC,WNWC0143,2008,WNWC02,8.9 ,15.1 ,3.9 ,2272.2 ,672.2 ,224.1 ,1241.1 ,2742.5 ,medium_spike,Alluvial?soils,clay loam,10.4,19.8,124,8.2,225 ,135 ,90 ,4304 ,6476 
+144,W-NWC,WNWC0144,2008,WNWC02,9.0 ,15.3 ,4.0 ,2313.2 ,703.2 ,227.3 ,1259.1 ,2783.9 ,small_spike,Fluvo-aquic soils,clay loam,13.4,38.9,179,8.3,234 ,120 ,90 ,4896 ,7283 
+145,W-NWC,WNWC0145,2009,WNWC02,7.7 ,14.0 ,2.8 ,1940.6 ,610.4 ,213.9 ,1140.5 ,2619.9 ,medium_spike,Alluvial?soils,clay loam,15.6,38.2,135,8.3,248 ,135 ,120 ,4245 ,7403 
+146,W-NWC,WNWC0146,2009,WNWC02,7.7 ,13.9 ,2.8 ,1925.7 ,605.5 ,213.9 ,1132.4 ,2605.1 ,medium_spike,Cumulic cinnamon soils,clay loam,10.7,34.6,103,8.4,270 ,150 ,105 ,4586 ,7484 
+147,W-NWC,WNWC0147,2007,WNWC02,8.4 ,14.6 ,3.9 ,2149.8 ,652.0 ,109.4 ,1148.4 ,2692.1 ,small_spike,Cultivated loessial soils,loam,20.8,76,202,7.9,179 ,59 ,29 ,6570 ,7845 
+148,W-NWC,WNWC0148,2007,WNWC02,8.0 ,14.1 ,3.5 ,2012.6 ,564.8 ,108.2 ,1100.7 ,2572.4 ,small_spike,Cumulic cinnamon soils,loam,14.6,13.3,167,7.7,176 ,182 ,32 ,6930 ,7560 
+149,W-NWC,WNWC0149,2007,WNWC02,8.4 ,14.6 ,3.9 ,2162.1 ,644.3 ,123.6 ,1145.0 ,2692.7 ,small_spike,Cumulic cinnamon soils,loam,19.8,61.8,131,7.8,240 ,45 ,60 ,6719 ,8189 
+150,W-NWC,WNWC0150,2007,WNWC02,8.5 ,14.7 ,4.0 ,2200.2 ,672.4 ,109.4 ,1152.6 ,2715.1 ,small_spike,Cumulic cinnamon soils,loam,14.6,38.1,162,7.8,179 ,59 ,29 ,7226 ,7797 
+151,W-NWC,WNWC0151,2007,WNWC02,8.0 ,14.1 ,3.5 ,2012.6 ,564.8 ,108.2 ,1100.7 ,2572.4 ,small_spike,Fluvo-aquic soils,sandy loam,16.2,19.9,208,7.8,180 ,60 ,30 ,6783 ,8033 
+152,W-NWC,WNWC0152,2007,WNWC02,9.1 ,15.2 ,4.5 ,2374.0 ,796.2 ,141.4 ,1161.5 ,2794.7 ,small_spike,Cumulic cinnamon soils,loam,7.1,16.3,116,7.9,240 ,45 ,60 ,6878 ,8363 
+153,W-NWC,WNWC0153,2008,WNWC02,8.8 ,14.8 ,4.4 ,2142.8 ,602.0 ,201.9 ,1101.8 ,2556.8 ,small_spike,Cumulic cinnamon soils,loam,18.9,27.4,148,7.7,150 ,90 ,30 ,4404 ,6437 
+154,W-NWC,WNWC0154,2008,WNWC02,8.5 ,14.8 ,4.0 ,2198.7 ,680.9 ,112.4 ,1154.9 ,2717.5 ,small_spike,Cumulic cinnamon soils,loam,19.1,24.1,103,7.7,150 ,90 ,30 ,6783 ,8012 
+155,W-NWC,WNWC0155,2008,WNWC02,8.4 ,14.6 ,3.9 ,2173.1 ,645.3 ,132.3 ,1145.0 ,2697.5 ,small_spike,Cumulic cinnamon soils,loam,17.1,31.8,168,7.8,150 ,90 ,30 ,5769 ,6878 
+156,W-NWC,WNWC0156,2008,WNWC02,8.9 ,14.9 ,4.4 ,2169.9 ,619.1 ,201.9 ,1113.9 ,2583.6 ,small_spike,Cumulic cinnamon soils,loam,17.2,11.9,195,7.8,180 ,120 ,30 ,4200 ,6240 
+157,W-NWC,WNWC0157,2009,WNWC02,8.1 ,14.2 ,3.7 ,1992.3 ,636.7 ,222.7 ,1087.0 ,2573.3 ,small_spike,Cumulic cinnamon soils,loam,19.3,77.9,143,7.7,225 ,135 ,90 ,4716 ,4803 
+158,W-NWC,WNWC0158,2009,WNWC02,8.1 ,14.2 ,3.7 ,1997.0 ,631.4 ,222.7 ,1089.4 ,2573.7 ,small_spike,Cumulic cinnamon soils,sandy loam,19,39.7,150,7.8,225 ,135 ,90 ,6275 ,7322 
+159,W-NWC,WNWC0159,2009,WNWC02,7.9 ,14.0 ,3.5 ,1932.5 ,596.9 ,222.7 ,1074.2 ,2527.0 ,small_spike,Cultivated loessial soils,loam,13.6,34.9,136,8.3,225 ,135 ,90 ,6348 ,6560 
+160,W-NWC,WNWC0160,2006,WNWC02,9.9 ,16.3 ,5.2 ,2451.8 ,839.3 ,167.7 ,1141.2 ,2706.8 ,small_spike,Cumulic cinnamon soils,silty clay loam,10.5,43,81,7.7,191 ,72 ,23 ,4321 ,5326 
+161,W-NWC,WNWC0161,2006,WNWC02,9.5 ,15.9 ,4.8 ,2235.4 ,732.9 ,167.7 ,1092.1 ,2583.5 ,small_spike,Cumulic cinnamon soils,loam,11.3,42.8,104,7.7,162 ,120 ,27 ,5256 ,5468 
+162,W-NWC,WNWC0162,2006,WNWC02,9.8 ,16.3 ,5.2 ,2433.3 ,820.8 ,167.7 ,1135.0 ,2692.0 ,small_spike,Cumulic cinnamon soils,silty clay loam,10.3,20.6,112,7.8,260 ,48 ,23 ,4915 ,6457 
+163,W-NWC,WNWC0163,2006,WNWC02,9.7 ,16.1 ,5.0 ,2293.7 ,781.2 ,142.5 ,1091.8 ,2605.0 ,small_spike,Cumulic cinnamon soils,loam,7.5,37,148,8,210 ,72 ,27 ,5333 ,6574 
+164,W-NWC,WNWC0164,2006,WNWC02,10.1 ,16.5 ,5.4 ,2523.0 ,880.5 ,168.3 ,1142.5 ,2731.3 ,small_spike,Cumulic cinnamon soils,silty clay loam,15.7,18.9,207,7.7,221 ,90 ,27 ,5404 ,7095 
+165,W-NWC,WNWC0165,2006,WNWC02,10.1 ,16.5 ,5.5 ,2541.3 ,888.8 ,168.3 ,1142.5 ,2736.3 ,small_spike,Cumulic cinnamon soils,loam,12,17,123,7.6,162 ,129 ,20 ,4550 ,8645 
+166,W-NWC,WNWC0166,2007,WNWC02,8.1 ,14.2 ,3.5 ,2011.1 ,583.3 ,108.2 ,1104.6 ,2581.2 ,small_spike,Cumulic cinnamon soils,clay,12,26.1,169,7.8,180 ,96 ,23 ,5294 ,6959 
+167,W-NWC,WNWC0167,2007,WNWC02,8.2 ,14.4 ,3.6 ,2059.2 ,611.4 ,108.2 ,1125.6 ,2629.7 ,small_spike,Cumulic cinnamon soils,clay,13.3,25.6,229,8,180 ,96 ,23 ,4468 ,7564 
+168,W-NWC,WNWC0168,2007,WNWC02,8.2 ,14.4 ,3.6 ,2046.1 ,608.3 ,108.2 ,1117.4 ,2615.0 ,small_spike,Cumulic cinnamon soils,clay,13.2,28.2,293,7.9,180 ,96 ,23 ,6428 ,8237 
+169,W-NWC,WNWC0169,2007,WNWC02,7.9 ,14.1 ,3.5 ,1974.6 ,556.8 ,108.2 ,1091.4 ,2546.8 ,small_spike,Cumulic cinnamon soils,clay,11.3,27.2,219,7.7,180 ,96 ,23 ,5033 ,6803 
+170,W-NWC,WNWC0170,2007,WNWC02,8.0 ,14.2 ,3.5 ,1986.5 ,568.7 ,108.2 ,1093.8 ,2556.5 ,small_spike,Cumulic cinnamon soils,clay,8.6,21.7,138,7.9,180 ,96 ,23 ,6453 ,6894 
+171,W-NWC,WNWC0171,2007,WNWC02,8.0 ,14.1 ,3.5 ,1958.6 ,570.8 ,108.2 ,1078.3 ,2530.9 ,small_spike,Cumulic cinnamon soils,clay,8.4,20,190,7.6,180 ,96 ,23 ,5556 ,6701 
+172,W-NWC,WNWC0172,2007,WNWC02,7.9 ,14.1 ,3.4 ,1962.2 ,554.4 ,108.2 ,1083.1 ,2531.9 ,small_spike,Cumulic cinnamon soils,clay,12.8,19.2,276,7.6,180 ,98 ,21 ,4131 ,6831 
+173,W-NWC,WNWC0173,2007,WNWC02,7.9 ,14.1 ,3.4 ,1957.4 ,559.6 ,108.2 ,1081.5 ,2532.2 ,small_spike,Cumulic cinnamon soils,clay,12.7,34.8,193,7.7,180 ,98 ,21 ,5258 ,6914 
+174,W-NWC,WNWC0174,2007,WNWC02,8.0 ,14.2 ,3.5 ,1986.5 ,568.7 ,108.2 ,1093.8 ,2556.5 ,small_spike,Cumulic cinnamon soils,clay,13.6,31.9,132,8,180 ,98 ,21 ,4212 ,6464 
+175,W-NWC,WNWC0175,2007,WNWC02,8.1 ,14.3 ,3.5 ,2005.5 ,587.7 ,108.2 ,1104.0 ,2583.1 ,small_spike,Cumulic cinnamon soils,clay,12.5,22.5,180,8,180 ,98 ,21 ,5210 ,6764 
+176,W-NWC,WNWC0176,2008,WNWC02,9.2 ,15.2 ,4.7 ,2300.7 ,689.9 ,234.8 ,1143.2 ,2672.1 ,small_spike,Cumulic cinnamon soils,clay,16.1,54.2,239,7.9,207 ,96 ,60 ,5168 ,6749 
+177,W-NWC,WNWC0177,2008,WNWC02,9.1 ,15.1 ,4.6 ,2252.4 ,661.6 ,234.8 ,1133.1 ,2641.0 ,small_spike,Cumulic cinnamon soils,clay,17.5,35.2,134,7.8,207 ,96 ,60 ,6977 ,8489 
+178,W-NWC,WNWC0178,2008,WNWC02,9.1 ,15.1 ,4.6 ,2252.4 ,661.6 ,234.8 ,1133.1 ,2641.0 ,small_spike,Cumulic cinnamon soils,clay,17.3,55.6,143,8,207 ,96 ,60 ,6290 ,9368 
+179,W-NWC,WNWC0179,2008,WNWC02,9.2 ,15.3 ,4.8 ,2314.6 ,693.8 ,234.8 ,1143.2 ,2676.8 ,small_spike,Cumulic cinnamon soils,clay,16.7,46.9,204,7.7,207 ,96 ,60 ,5474 ,9426 
+180,W-NWC,WNWC0180,2008,WNWC02,9.3 ,15.3 ,4.8 ,2351.7 ,710.9 ,234.8 ,1143.2 ,2689.0 ,small_spike,Cumulic cinnamon soils,clay,12.8,19.2,276,7.9,207 ,96 ,60 ,6189 ,9416 
+181,W-NWC,WNWC0181,2008,WNWC02,9.1 ,15.1 ,4.6 ,2266.3 ,665.5 ,234.8 ,1133.1 ,2645.7 ,small_spike,Cumulic cinnamon soils,clay,12.5,22.5,108,7.8,207 ,96 ,60 ,5442 ,8475 
+182,W-NWC,WNWC0182,2008,WNWC02,9.2 ,15.2 ,4.7 ,2300.7 ,689.9 ,234.8 ,1143.2 ,2672.1 ,small_spike,Cumulic cinnamon soils,clay,11.3,27.2,122,7.9,207 ,96 ,60 ,6141 ,7263 
+183,W-NWC,WNWC0183,2008,WNWC02,9.4 ,15.5 ,4.9 ,2378.1 ,747.3 ,234.8 ,1171.0 ,2740.5 ,small_spike,Cumulic cinnamon soils,clay,18.9,19.2,276,8,207 ,96 ,60 ,6365 ,7263 
+184,W-NWC,WNWC0184,2008,WNWC02,9.1 ,15.1 ,4.7 ,2258.5 ,677.7 ,234.8 ,1125.8 ,2636.2 ,small_spike,Cumulic cinnamon soils,clay,17.6,36.5,283,7.8,207 ,96 ,60 ,5672 ,8285 
+185,W-NWC,WNWC0185,2009,WNWC02,8.5 ,14.6 ,4.1 ,2207.3 ,711.7 ,243.6 ,1151.2 ,2725.5 ,small_spike,Cumulic cinnamon soils,loam,15,43.4,198,7.8,225 ,92 ,75 ,6923 ,7758 
+186,W-NWC,WNWC0186,2009,WNWC02,8.4 ,14.5 ,4.1 ,2188.0 ,692.4 ,245.8 ,1137.6 ,2696.6 ,small_spike,Cumulic cinnamon soils,loam,13.6,38.2,183,7.8,225 ,92 ,75 ,6320 ,7647 
+187,W-NWC,WNWC0187,2009,WNWC02,8.5 ,14.5 ,4.1 ,2221.9 ,706.3 ,245.8 ,1151.1 ,2721.2 ,small_spike,Cumulic cinnamon soils,loam,16.7,50.7,185,7.9,225 ,96 ,75 ,6605 ,7244 
+188,W-NWC,WNWC0188,2008,WNWC02,8.7 ,14.8 ,4.1 ,2092.8 ,585.0 ,212.2 ,1207.2 ,2658.5 ,medium_spike,Cumulic cinnamon soils,clay loam,17,20.3,283,8.2,186 ,117 ,84 ,5115 ,7575 
+189,W-NWC,WNWC0189,2008,WNWC02,8.5 ,14.5 ,4.0 ,2015.1 ,547.3 ,212.2 ,1178.1 ,2590.2 ,small_spike,Cumulic cinnamon soils,clay loam,15.2,9.5,97,8.1,186 ,117 ,84 ,4140 ,6795 
+190,W-NWC,WNWC0190,2008,WNWC02,8.7 ,14.8 ,4.1 ,2120.2 ,592.4 ,212.2 ,1215.9 ,2678.8 ,small_spike,Cumulic cinnamon soils,clay loam,17.4,14.3,149,7.8,186 ,117 ,84 ,4785 ,6735 
+191,W-NWC,WNWC0191,2008,WNWC02,8.4 ,14.5 ,3.9 ,1992.3 ,534.5 ,212.2 ,1169.0 ,2568.2 ,small_spike,Cumulic cinnamon soils,loam,19.3,13.9,127,8.1,186 ,117 ,84 ,5025 ,6540 
+192,W-NWC,WNWC0192,2008,WNWC02,8.6 ,14.7 ,4.0 ,2067.9 ,570.1 ,212.2 ,1196.3 ,2633.6 ,small_spike,Cumulic cinnamon soils,clay loam,22.7,15.4,84,8.2,186 ,117 ,84 ,5130 ,6660 
+193,W-NWC,WNWC0193,2008,WNWC02,8.6 ,14.6 ,4.0 ,2039.1 ,561.3 ,212.2 ,1189.8 ,2616.3 ,small_spike,Cumulic cinnamon soils,clay loam,16.4,49.4,120,8.2,186 ,117 ,84 ,4320 ,7110 
+194,W-NWC,WNWC0194,2008,WNWC02,8.7 ,14.8 ,4.1 ,2102.6 ,594.8 ,212.2 ,1212.0 ,2671.3 ,small_spike,Cumulic cinnamon soils,clay loam,17.6,11.4,129,8.2,186 ,117 ,84 ,4785 ,5895 
+195,W-NWC,WNWC0195,2008,WNWC02,8.6 ,14.6 ,4.0 ,2071.3 ,563.5 ,212.2 ,1193.3 ,2627.8 ,small_spike,Cumulic cinnamon soils,clay loam,22,11.9,317,8.3,186 ,117 ,84 ,5220 ,6060 
+196,W-NWC,WNWC0196,2008,WNWC02,8.6 ,14.7 ,4.0 ,2064.0 ,576.2 ,212.2 ,1200.7 ,2641.2 ,small_spike,Cumulic cinnamon soils,clay loam,15.8,14.5,106,7.9,186 ,117 ,84 ,5760 ,6645 
+197,W-NWC,WNWC0197,2008,WNWC02,8.6 ,14.6 ,4.0 ,2039.1 ,561.3 ,212.2 ,1189.8 ,2616.3 ,small_spike,Cumulic cinnamon soils,clay loam,15.3,43.5,104,8.1,186 ,117 ,84 ,5265 ,8310 
+198,W-NWC,WNWC0198,2009,WNWC02,8.1 ,14.2 ,3.6 ,1969.2 ,621.4 ,232.1 ,1117.8 ,2555.8 ,medium_spike,Cumulic cinnamon soils,clay loam,11.8,6.7,68,8.1,117 ,84 ,21 ,3135 ,6600 
+199,W-NWC,WNWC0199,2009,WNWC02,8.5 ,14.6 ,3.9 ,2139.5 ,701.7 ,234.7 ,1155.6 ,2666.5 ,medium_spike,Cumulic cinnamon soils,clay loam,15.8,18.9,328,7.8,117 ,84 ,21 ,5400 ,8490 
+200,W-NWC,WNWC0200,2009,WNWC02,9.4 ,15.5 ,5.0 ,2617.6 ,919.8 ,282.7 ,1247.8 ,2929.0 ,small_spike,Cumulic cinnamon soils,clay loam,17,52.4,386,8.2,117 ,84 ,21 ,5100 ,7170 
+201,W-NWC,WNWC0201,2009,WNWC02,8.6 ,14.7 ,4.0 ,2149.7 ,721.9 ,232.9 ,1163.3 ,2683.3 ,small_spike,Cumulic cinnamon soils,clay loam,18.5,51.4,337,7.3,117 ,84 ,21 ,6539 ,7439 
+202,W-NWC,WNWC0202,2009,WNWC02,8.1 ,14.2 ,3.6 ,1977.4 ,629.6 ,232.9 ,1103.1 ,2544.5 ,small_spike,Cumulic cinnamon soils,clay loam,20.5,39.3,204,8.5,117 ,84 ,21 ,5625 ,7215 
+203,W-NWC,WNWC0203,2009,WNWC02,8.4 ,14.5 ,3.8 ,2084.5 ,676.7 ,232.9 ,1140.3 ,2627.3 ,medium_spike,Cumulic cinnamon soils,clay loam,18.3,50.7,353,7.4,117 ,84 ,21 ,5400 ,8700 
+204,W-NWC,WNWC0204,2009,WNWC02,8.5 ,14.7 ,4.0 ,2134.6 ,716.8 ,232.9 ,1156.7 ,2670.4 ,medium_spike,Cumulic cinnamon soils,clay loam,20.5,49,365,8.5,117 ,84 ,21 ,5760 ,6225 
+205,W-NWC,WNWC0205,2009,WNWC02,8.4 ,14.5 ,3.8 ,2079.0 ,681.2 ,232.9 ,1138.4 ,2626.2 ,small_spike,Cumulic cinnamon soils,clay loam,16.3,20,323,7.4,117 ,84 ,21 ,4599 ,5595 
+206,W-NWC,WNWC0206,2009,WNWC02,8.0 ,13.3 ,3.6 ,2019.5 ,640.1 ,222.3 ,1314.6 ,2833.4 ,medium_spike,Cumulic cinnamon soils,clay,12.4,34.7,185,8.2,210 ,180 ,120 ,2373 ,5225 
+207,W-NWC,WNWC0207,2009,WNWC02,7.8 ,14.4 ,3.0 ,1928.1 ,590.4 ,195.6 ,1329.8 ,2775.9 ,small_spike,Cumulic cinnamon soils,loam,10.4,29.5,218,8,210 ,180 ,120 ,2420 ,5346 
+208,W-NWC,WNWC0208,2009,WNWC02,7.9 ,14.4 ,3.1 ,1942.6 ,614.9 ,217.0 ,1280.9 ,2726.4 ,small_spike,Cumulic cinnamon soils,loam,10.4,29.5,218,8,210 ,180 ,120 ,3182 ,6676 
+209,W-NWC,WNWC0209,2009,WNWC02,8.1 ,14.6 ,3.2 ,2017.4 ,639.7 ,217.0 ,1326.4 ,2810.8 ,medium_spike,Cumulic cinnamon soils,loam,11.4,30.2,198,8.1,210 ,180 ,120 ,2348 ,4437 
+210,W-NWC,WNWC0210,2009,WNWC02,8.0 ,13.3 ,3.6 ,2019.5 ,640.1 ,222.3 ,1314.6 ,2833.4 ,medium_spike,Cumulic cinnamon soils,loam,13.1,34.5,300,8.2,210 ,180 ,120 ,3050 ,6309 
+211,W-NWC,WNWC0211,2009,WNWC02,7.7 ,14.4 ,2.9 ,1885.6 ,577.9 ,195.0 ,1304.6 ,2730.0 ,medium_spike,Cumulic cinnamon soils,loam,9.4,19.2,160,7.9,210 ,120 ,180 ,2786 ,4884 
+212,W-NWC,WNWC0212,2009,WNWC02,8.2 ,14.7 ,3.3 ,2072.5 ,654.8 ,220.3 ,1341.6 ,2848.9 ,medium_spike,Cumulic cinnamon soils,loam,14.8,48.1,157,8.5,210 ,180 ,120 ,2135 ,4845 
+213,W-NWC,WNWC0213,2009,WNWC02,7.8 ,14.4 ,3.0 ,1947.4 ,589.7 ,200.5 ,1318.8 ,2765.1 ,medium_spike,Cumulic cinnamon soils,loam,14.3,42.1,240,7.9,210 ,180 ,120 ,2603 ,5526 
+214,W-NWC,WNWC0214,2007,WNWC02,7.8 ,13.6 ,3.2 ,1930.5 ,569.6 ,132.0 ,1325.8 ,2823.4 ,medium_spike,Cumulic cinnamon soils,clay,12.8,30.7,136,7.9,180 ,150 ,75 ,5488 ,5938 
+215,W-NWC,WNWC0215,2007,WNWC02,7.9 ,13.7 ,3.4 ,1975.1 ,594.2 ,132.6 ,1335.4 ,2853.6 ,medium_spike,Cumulic cinnamon soils,clay,15.1,34.2,130,8.3,180 ,150 ,75 ,4984 ,6650 
+216,W-NWC,WNWC0216,2008,WNWC02,8.4 ,14.4 ,3.8 ,1980.6 ,573.4 ,136.1 ,1295.5 ,2724.5 ,medium_spike,Cumulic cinnamon soils,clay,13.5,38.3,194,8.4,180 ,150 ,75 ,5006 ,5939 
+217,W-NWC,WNWC0217,2008,WNWC02,8.2 ,14.2 ,3.7 ,1916.2 ,539.0 ,136.1 ,1266.6 ,2661.2 ,medium_spike,Cumulic cinnamon soils,clay,13.5,73.3,215,7.9,180 ,150 ,75 ,5315 ,6005 
+218,W-NWC,WNWC0218,2009,WNWC02,7.8 ,13.8 ,3.5 ,1999.2 ,620.4 ,191.1 ,1349.3 ,2857.3 ,small_spike,Cumulic cinnamon soils,clay,24.8,34.7,186,8.1,180 ,120 ,120 ,4980 ,8085 
+219,W-NWC,WNWC0219,2009,WNWC02,7.7 ,13.8 ,3.4 ,1950.4 ,611.6 ,187.4 ,1338.4 ,2830.1 ,small_spike,Cumulic cinnamon soils,clay,14.6,26.7,267,7.8,210 ,135 ,105 ,5727 ,7792 
+220,W-NWC,WNWC0220,2009,WNWC02,7.8 ,13.8 ,3.6 ,2024.7 ,625.9 ,194.3 ,1350.4 ,2863.3 ,small_spike,Cumulic cinnamon soils,clay,24.9,43.6,298,8.3,180 ,120 ,120 ,4850 ,6302 
+221,W-NWC,WNWC0221,2009,WNWC02,7.8 ,13.8 ,3.4 ,1978.6 ,619.8 ,187.4 ,1356.5 ,2862.2 ,small_spike,Cumulic cinnamon soils,clay,13.8,16.8,186,8,180 ,120 ,60 ,3179 ,6954 
+222,W-NWC,WNWC0222,2009,WNWC02,7.7 ,13.8 ,3.4 ,1950.4 ,611.6 ,187.4 ,1338.4 ,2830.1 ,small_spike,Cumulic cinnamon soils,clay,16,18.5,291,7.8,210 ,135 ,105 ,5882 ,7688 
+223,W-NWC,WNWC0223,2007,WNWC02,7.7 ,13.6 ,3.2 ,1904.2 ,563.3 ,131.0 ,1313.3 ,2800.0 ,small_spike,Cumulic cinnamon soils,clay,13.7,27.1,226,8.2,180 ,150 ,75 ,4860 ,6096 
+224,W-NWC,WNWC0224,2007,WNWC02,7.7 ,13.6 ,3.2 ,1935.0 ,564.1 ,132.0 ,1330.2 ,2824.9 ,medium_spike,Yellow-cinnamon soils,clay,13.2,30.8,134,7.9,180 ,150 ,75 ,5502 ,5978 
+225,W-NWC,WNWC0225,2007,WNWC02,8.6 ,14.3 ,4.3 ,2412.2 ,726.2 ,183.9 ,1450.0 ,3151.5 ,medium_spike,Yellow-cinnamon soils,clay,8.1,21.6,138,7.9,180 ,150 ,75 ,5162 ,6287 
+226,W-NWC,WNWC0226,2007,WNWC02,7.7 ,13.6 ,3.2 ,1922.4 ,561.5 ,132.0 ,1321.6 ,2810.1 ,medium_spike,Yellow-cinnamon soils,silty clay loam,12.7,23.8,100,8,180 ,150 ,75 ,5652 ,5939 
+227,W-NWC,WNWC0227,2007,WNWC02,7.8 ,13.6 ,3.3 ,1928.4 ,577.5 ,131.0 ,1322.9 ,2822.8 ,medium_spike,Cumulic cinnamon soils,clay,11.3,25.3,97,7.9,180 ,150 ,75 ,3802 ,7520 
+228,W-NWC,WNWC0228,2008,WNWC02,9.6 ,15.3 ,5.2 ,2626.0 ,821.4 ,250.9 ,1423.5 ,3104.9 ,medium_spike,Yellow-cinnamon soils,clay,9.7,28.4,94,8.2,180 ,150 ,75 ,3914 ,5892 
+229,W-NWC,WNWC0229,2008,WNWC02,8.2 ,14.2 ,3.7 ,1916.2 ,539.0 ,136.1 ,1266.6 ,2661.2 ,medium_spike,Cumulic cinnamon soils,clay,12.6,28.3,192,8.2,180 ,150 ,75 ,5261 ,6407 
+230,W-NWC,WNWC0230,2008,WNWC02,8.2 ,14.2 ,3.7 ,1916.2 ,539.0 ,136.1 ,1266.6 ,2661.2 ,medium_spike,Cumulic cinnamon soils,clay,13.5,35.2,134,7.9,180 ,150 ,75 ,5506 ,5987 
+231,W-NWC,WNWC0231,2007,WNWC02,7.7 ,13.6 ,3.2 ,1916.9 ,566.0 ,131.8 ,1323.3 ,2816.1 ,small_spike,Cumulic cinnamon soils,clay,9.2,20.5,119,7.9,180 ,150 ,75 ,5082 ,5931 
+232,W-NWC,WNWC0232,2007,WNWC02,7.7 ,13.5 ,3.2 ,1892.0 ,561.1 ,131.0 ,1307.8 ,2789.3 ,small_spike,Cumulic cinnamon soils,clay,8,13.4,120,7.9,180 ,150 ,75 ,5432 ,6085 
+233,W-NWC,WNWC0233,2007,WNWC02,7.7 ,13.6 ,3.2 ,1922.4 ,561.5 ,132.0 ,1321.6 ,2810.1 ,small_spike,Cumulic cinnamon soils,clay,11,55.1,98,8,180 ,150 ,75 ,5451 ,6087 
+234,W-NWC,WNWC0234,2007,WNWC02,8.5 ,14.4 ,3.6 ,2202.7 ,663.4 ,163.2 ,1348.4 ,2904.9 ,small_spike,Irrigating warped soils,silty clay loam,13.8,23.4,193,8,150 ,90 ,60 ,4881 ,9281 
+235,W-NWC,WNWC0235,2007,WNWC02,8.7 ,14.6 ,3.8 ,2242.8 ,702.6 ,152.1 ,1360.3 ,2931.9 ,small_spike,Irrigating warped soils,silty clay loam,14.3,28.8,200,8,195 ,90 ,75 ,4155 ,6977 
+236,W-NWC,WNWC0236,2007,WNWC02,8.6 ,14.4 ,3.7 ,2230.4 ,671.1 ,166.4 ,1336.6 ,2893.3 ,small_spike,Irrigating warped soils,sandy loam,15.8,24.6,200,8.1,165 ,90 ,75 ,4998 ,7703 
+237,W-NWC,WNWC0237,2009,WNWC02,8.4 ,14.3 ,3.9 ,2114.8 ,685.0 ,202.3 ,1251.2 ,2739.4 ,medium_spike,Irrigating warped soils,sandy loam,15.3,27.8,230,8.2,180 ,90 ,68 ,4805 ,6881 
+238,W-NWC,WNWC0238,2009,WNWC02,8.4 ,14.3 ,3.8 ,2094.3 ,674.5 ,199.7 ,1251.2 ,2729.3 ,medium_spike,Cultivated loessial soils,sandy loam,11.8,23.9,210,8.2,180 ,105 ,75 ,4611 ,6546 
+239,W-NWC,WNWC0239,2007,WNWC02,8.6 ,14.4 ,3.8 ,2250.0 ,680.7 ,166.4 ,1339.3 ,2901.8 ,small_spike,Irrigating warped soils,silty clay loam,15.6,19.6,178,8,210 ,113 ,75 ,4632 ,9096 
+240,W-NWC,WNWC0240,2007,WNWC02,8.6 ,14.5 ,3.7 ,2218.9 ,679.3 ,162.6 ,1356.4 ,2920.3 ,small_spike,Irrigating warped soils,silty clay loam,11.8,39.7,180,8,195 ,105 ,90 ,3860 ,7458 
+241,W-NWC,WNWC0241,2009,WNWC02,8.5 ,14.4 ,4.0 ,2164.9 ,705.1 ,204.8 ,1261.4 ,2772.8 ,medium_spike,Irrigating warped soils,silty clay loam,14.3,29.6,200,8,180 ,90 ,90 ,4896 ,6806 
+242,W-NWC,WNWC0242,2007,WNWC02,8.8 ,14.7 ,3.9 ,2313.6 ,734.0 ,163.0 ,1370.1 ,2972.0 ,small_spike,Irrigating warped soils,silty clay loam,14.8,20.6,151,8,165 ,105 ,83 ,4776 ,9177 
+243,W-NWC,WNWC0243,2007,WNWC02,8.7 ,14.6 ,3.8 ,2262.2 ,702.6 ,163.0 ,1360.3 ,2941.4 ,small_spike,Irrigating warped soils,sandy loam,16.6,36.3,200,8.1,195 ,105 ,90 ,3336 ,8081 
+244,W-NWC,WNWC0244,2007,WNWC02,8.6 ,14.5 ,3.7 ,2218.9 ,679.3 ,162.6 ,1356.4 ,2920.3 ,small_spike,Irrigating warped soils,sandy loam,13.5,49.2,200,8,180 ,105 ,83 ,4448 ,7175 
+245,W-NWC,WNWC0245,2009,WNWC02,8.3 ,14.3 ,3.7 ,2068.7 ,668.9 ,199.3 ,1251.2 ,2722.5 ,medium_spike,Irrigating warped soils,sandy loam,15.9,48.6,230,8.1,165 ,75 ,75 ,3264 ,5103 
+246,W-NWC,WNWC0246,2007,WNWC02,8.8 ,14.6 ,3.9 ,2323.2 ,723.9 ,166.8 ,1360.3 ,2961.0 ,small_spike,Dark loessial soils,silt loam,10.9,17.3,158,8,195 ,105 ,83 ,4914 ,9483 
+247,W-NWC,WNWC0247,2007,WNWC02,8.8 ,14.6 ,3.9 ,2323.2 ,723.9 ,166.8 ,1360.3 ,2961.0 ,small_spike,Cultivated loessial soils,silty clay loam,14.2,20.1,187,8.2,180 ,105 ,75 ,5157 ,9431 
+248,W-NWC,WNWC0248,2007,WNWC02,8.6 ,14.4 ,3.8 ,2250.0 ,680.7 ,166.4 ,1339.3 ,2901.8 ,small_spike,Cultivated loessial soils,clay loam,11.3,19.3,169,8,210 ,105 ,75 ,4601 ,7665 
+249,W-NWC,WNWC0249,2007,WNWC02,8.5 ,14.4 ,3.6 ,2202.7 ,663.4 ,163.2 ,1348.4 ,2904.9 ,small_spike,Irrigating warped soils,silty clay loam,11.4,14.3,130,8,195 ,90 ,90 ,3710 ,7995 
+250,W-NWC,WNWC0250,2007,WNWC02,8.6 ,14.5 ,3.6 ,2209.3 ,679.3 ,162.3 ,1356.4 ,2915.5 ,small_spike,Irrigating warped soils,sandy loam,12.1,32.8,230,8.1,180 ,105 ,83 ,4149 ,7548 
+251,W-NWC,WNWC0251,2007,WNWC02,8.6 ,14.5 ,3.6 ,2209.3 ,679.3 ,162.3 ,1356.4 ,2915.5 ,small_spike,Irrigating warped soils,sandy loam,13.5,71.2,280,8,195 ,105 ,75 ,4610 ,7703 
+252,W-NWC,WNWC0252,2009,WNWC02,8.3 ,14.2 ,3.7 ,2066.3 ,656.5 ,185.6 ,1244.9 ,2709.1 ,medium_spike,Cultivated loessial soils,silty clay loam,13.6,18.7,210,8.1,210 ,105 ,75 ,3723 ,5522 
+253,W-NWC,WNWC0253,2007,WNWC02,8.5 ,14.5 ,3.6 ,2177.0 ,676.8 ,127.0 ,1355.6 ,2900.3 ,small_spike,Irrigating warped soils,silty clay loam,12.7,31.3,170,8,195 ,75 ,98 ,3209 ,7152 
+254,W-NWC,WNWC0254,2007,WNWC02,8.5 ,14.3 ,3.7 ,2210.2 ,660.9 ,166.4 ,1336.6 ,2888.3 ,small_spike,Cultivated loessial soils,clay,12.4,21.7,185,7.9,180 ,105 ,75 ,3987 ,7778 
+255,W-NWC,WNWC0255,2007,WNWC02,8.6 ,14.5 ,3.6 ,2188.3 ,678.1 ,140.2 ,1356.4 ,2906.0 ,small_spike,Irrigating warped soils,silty clay loam,10.5,25.7,200,8,180 ,90 ,90 ,3959 ,6600 
+256,W-NWC,WNWC0256,2007,WNWC02,8.7 ,14.6 ,3.8 ,2262.2 ,702.6 ,163.0 ,1360.3 ,2941.4 ,small_spike,Cultivated loessial soils,silt loam,12.6,21.4,191,8,180 ,105 ,68 ,4662 ,7692 
+257,W-NWC,WNWC0257,2009,WNWC02,7.9 ,13.9 ,3.4 ,1871.0 ,605.1 ,169.7 ,1157.9 ,2535.3 ,small_spike,Irrigating warped soils,clay loam,10.8,30.2,162,7.8,225 ,120 ,90 ,3713 ,6846 
+258,W-NWC,WNWC0258,2007,WNWC02,8.4 ,14.5 ,3.7 ,2058.6 ,647.2 ,120.6 ,1485.1 ,3013.6 ,small_spike,Irrigating warped soils,clay loam,13.5,37.5,153,8.1,195 ,120 ,90 ,2981 ,7869 
+259,W-NWC,WNWC0259,2008,WNWC02,8.9 ,15.1 ,4.3 ,2087.7 ,621.3 ,208.4 ,1315.3 ,2707.9 ,small_spike,Irrigating warped soils,clay loam,14.6,32.7,108,8,225 ,120 ,90 ,3161 ,7211 
+260,W-NWC,WNWC0260,2009,WNWC02,7.7 ,13.7 ,3.3 ,1804.1 ,578.2 ,169.7 ,1134.3 ,2485.1 ,small_spike,Irrigating warped soils,clay loam,10,26.1,150,7.9,225 ,120 ,90 ,3128 ,8634 
+261,W-NWC,WNWC0261,2007,WNWC02,8.1 ,14.2 ,3.5 ,1984.1 ,582.7 ,119.4 ,1481.9 ,2968.8 ,small_spike,Cumulic cinnamon soils,clay loam,11.8,31.2,107,8,165 ,90 ,75 ,2598 ,6488 
+262,W-NWC,WNWC0262,2008,WNWC02,8.8 ,14.9 ,4.2 ,2071.2 ,594.8 ,215.2 ,1296.7 ,2660.0 ,small_spike,Cumulic cinnamon soils,silty clay loam,11.5,32.4,109,8.1,180 ,90 ,75 ,2768 ,6581 
+263,W-NWC,WNWC0263,2007,WNWC02,8.2 ,14.2 ,3.5 ,1983.6 ,592.2 ,119.4 ,1471.3 ,2957.3 ,small_spike,Cumulic cinnamon soils,silty clay loam,12.7,30.6,138,8.1,165 ,90 ,75 ,2709 ,6650 
+264,W-NWC,WNWC0264,2007,WNWC02,8.2 ,14.2 ,3.5 ,1969.8 ,588.4 ,119.4 ,1461.6 ,2940.8 ,small_spike,Cumulic cinnamon soils,silty clay loam,9.7,23.7,107,8.1,165 ,90 ,75 ,2711 ,6380 
+265,W-NWC,WNWC0265,2008,WNWC02,8.7 ,14.9 ,4.2 ,2040.1 ,583.7 ,215.2 ,1287.0 ,2639.0 ,small_spike,Cumulic cinnamon soils,silty clay loam,12.7,30.6,138,8,180 ,90 ,75 ,2735 ,6764 
+266,W-NWC,WNWC0266,2007,WNWC02,8.5 ,14.5 ,3.8 ,2084.0 ,662.6 ,120.6 ,1497.7 ,3041.2 ,small_spike,Irrigating warped soils,clay loam,13.7,37.5,151,8,195 ,120 ,90 ,3468 ,7482 
+267,W-NWC,WNWC0267,2007,WNWC02,8.6 ,14.6 ,3.8 ,2108.5 ,677.1 ,120.6 ,1510.2 ,3068.6 ,small_spike,Irrigating warped soils,clay loam,14.5,42.3,139,8.1,195 ,120 ,90 ,3011 ,7349 
+268,W-NWC,WNWC0268,2008,WNWC02,9.0 ,15.2 ,4.3 ,2112.9 ,636.5 ,208.4 ,1324.1 ,2729.4 ,small_spike,Irrigating warped soils,clay loam,12.7,37.2,115,8,195 ,120 ,90 ,3008 ,7017 
+269,W-NWC,WNWC0269,2009,WNWC02,7.8 ,13.9 ,3.4 ,1861.0 ,595.1 ,169.7 ,1163.5 ,2537.9 ,small_spike,Cumulic cinnamon soils,loam,11.5,25.9,160,8.1,195 ,90 ,105 ,3230 ,8303 
+270,W-NWC,WNWC0270,2007,WNWC02,8.4 ,14.5 ,3.7 ,2058.6 ,647.2 ,120.6 ,1485.1 ,3013.6 ,small_spike,Irrigating warped soils,clay loam,13.7,48.7,157,8.1,195 ,120 ,90 ,3114 ,7580 
+271,W-NWC,WNWC0271,2007,WNWC02,8.5 ,14.5 ,3.7 ,2057.4 ,656.0 ,120.6 ,1482.2 ,3013.7 ,small_spike,Irrigating warped soils,clay,13.1,36.8,217,8,195 ,120 ,90 ,3155 ,7607 
+272,W-NWC,WNWC0272,2008,WNWC02,8.7 ,14.8 ,4.1 ,2023.1 ,576.7 ,213.8 ,1282.3 ,2628.8 ,small_spike,Cumulic cinnamon soils,silty clay loam,9.7,27.5,139,8,180 ,90 ,75 ,2706 ,6281 
+273,W-NWC,WNWC0273,2008,WNWC02,8.9 ,15.2 ,4.3 ,2096.8 ,630.4 ,208.4 ,1324.1 ,2725.1 ,small_spike,Irrigating warped soils,clay loam,13.1,41.2,167,8,195 ,105 ,90 ,3203 ,8249 
+274,W-NWC,WNWC0274,2008,WNWC02,8.9 ,15.2 ,4.2 ,2083.7 ,627.3 ,194.2 ,1320.6 ,2716.7 ,small_spike,Irrigating warped soils,clay loam,12.1,40.7,151,8,225 ,120 ,90 ,3225 ,8682 
+275,W-NWC,WNWC0275,2009,WNWC02,7.6 ,13.7 ,3.0 ,1789.1 ,543.2 ,148.2 ,1188.7 ,2527.0 ,small_spike,Cumulic cinnamon soils,loam,12.5,31,153,8,180 ,90 ,75 ,2781 ,6561 
+276,W-NWC,WNWC0276,2008,WNWC02,8.9 ,15.1 ,4.3 ,2102.7 ,626.3 ,209.0 ,1315.3 ,2712.2 ,small_spike,Irrigating warped soils,clay loam,12.7,36.5,126,8.1,225 ,120 ,90 ,3146 ,7928 
+277,W-NWC,WNWC0277,2009,WNWC02,8.0 ,14.1 ,3.5 ,1911.6 ,635.7 ,169.7 ,1158.1 ,2553.5 ,small_spike,Irrigating warped soils,loam,12.4,23.6,170,7.8,225 ,120 ,90 ,3234 ,7268 
+278,W-NWC,WNWC0278,2007,WNWC02,8.4 ,14.4 ,3.7 ,2032.0 ,640.6 ,120.6 ,1469.6 ,2986.1 ,small_spike,Irrigating warped soils,clay loam,14.1,38.5,129,8,195 ,120 ,90 ,3114 ,7920 
+279,W-NWC,WNWC0279,2008,WNWC02,9.1 ,15.4 ,4.4 ,2150.4 ,664.0 ,208.4 ,1346.4 ,2775.7 ,small_spike,Irrigating warped soils,clay loam,13.7,27.8,141,8.1,195 ,120 ,90 ,3047 ,7214 
+280,W-NWC,WNWC0280,2007,WNWC02,8.4 ,14.4 ,3.7 ,2032.0 ,640.6 ,120.6 ,1469.6 ,2986.1 ,small_spike,Irrigating warped soils,clay loam,12.6,46.7,135,8.1,195 ,120 ,90 ,3097 ,8087 
+281,W-NWC,WNWC0281,2008,WNWC02,9.0 ,15.3 ,4.3 ,2122.9 ,646.5 ,208.4 ,1335.3 ,2750.5 ,small_spike,Irrigating warped soils,clay loam,10.9,32.5,142,8.1,225 ,120 ,90 ,3671 ,6789 
+282,W-NWC,WNWC0282,2007,WNWC02,9.0 ,14.9 ,3.9 ,2111.6 ,725.9 ,175.0 ,1358.7 ,2884.2 ,small_spike,Dark loessial soils,silty clay loam,11.2,11.9,143,7.8,180 ,105 ,60 ,4950 ,7100 
+283,W-NWC,WNWC0283,2008,WNWC02,9.4 ,15.7 ,4.3 ,2230.1 ,690.1 ,252.3 ,1424.2 ,2907.2 ,small_spike,Dark loessial soils,silty clay loam,12.9,9.3,169,7.8,180 ,60 ,45 ,2952 ,4970 
+284,W-NWC,WNWC0284,2008,WNWC02,9.5 ,15.9 ,4.4 ,2287.7 ,717.7 ,252.3 ,1445.9 ,2954.5 ,small_spike,Cultivated loessial soils,silt loam,16.3,20.6,142,7.8,180 ,105 ,60 ,4340 ,6077 
+285,W-NWC,WNWC0285,2007,WNWC02,8.8 ,14.7 ,3.8 ,2108.6 ,684.8 ,173.5 ,1372.9 ,2883.7 ,small_spike,Cultivated loessial soils,sandy loam,11.5,21.7,190,7.9,180 ,105 ,60 ,4200 ,5700 
+286,W-NWC,WNWC0286,2008,WNWC02,9.6 ,16.1 ,4.5 ,2342.8 ,752.8 ,252.3 ,1470.8 ,3009.2 ,small_spike,Cultivated loessial soils,silt loam,11.4,18.2,172,7.8,180 ,105 ,60 ,4070 ,5877 
+287,W-NWC,WNWC0287,2008,WNWC02,9.9 ,16.3 ,4.8 ,2500.6 ,810.6 ,283.1 ,1517.3 ,3117.0 ,small_spike,Dark loessial soils,silty clay loam,18,17.6,188,7.9,180 ,105 ,60 ,4883 ,6983 
+288,W-NWC,WNWC0288,2008,WNWC02,9.5 ,16.0 ,4.4 ,2277.6 ,727.6 ,252.3 ,1447.3 ,2962.0 ,small_spike,Dark loessial soils,silty clay loam,11.3,5,147,7.8,180 ,105 ,60 ,4070 ,5699 
+289,W-NWC,WNWC0289,2007,WNWC02,9.5 ,15.5 ,4.4 ,2385.9 ,832.1 ,197.5 ,1478.1 ,3125.0 ,small_spike,Dark loessial soils,clay,17.3,21.4,170,8.1,150 ,105 ,60 ,4725 ,6843 
+290,W-NWC,WNWC0290,2008,WNWC02,10.0 ,16.4 ,4.8 ,2471.8 ,831.8 ,259.0 ,1514.6 ,3116.6 ,small_spike,Dark loessial soils,clay,12.6,8,177,7.8,225 ,98 ,60 ,3845 ,5592 
+291,W-NWC,WNWC0291,2008,WNWC02,10.0 ,16.5 ,4.9 ,2497.0 ,847.0 ,259.0 ,1516.8 ,3127.6 ,small_spike,Dark loessial soils,clay,15.4,12.2,150,7.9,180 ,105 ,60 ,3339 ,5139 
+292,W-NWC,WNWC0292,2008,WNWC02,9.8 ,16.2 ,4.7 ,2396.9 ,796.9 ,259.0 ,1484.6 ,3053.9 ,small_spike,Dark loessial soils,silty clay loam,15.8,11.2,160,7.9,180 ,105 ,60 ,4608 ,6058 
+293,W-NWC,WNWC0293,2007,WNWC02,9.3 ,15.2 ,4.2 ,2278.3 ,774.5 ,197.5 ,1435.6 ,3031.7 ,small_spike,Cultivated loessial soils,silty clay loam,16.3,17.4,195,7.9,180 ,105 ,60 ,4544 ,6332 
+294,W-NWC,WNWC0294,2007,WNWC02,9.3 ,15.2 ,4.2 ,2250.4 ,776.6 ,197.3 ,1413.8 ,2998.4 ,small_spike,Dark loessial soils,silty clay loam,12.7,20.8,217,7.9,180 ,105 ,60 ,4579 ,6290 
+295,W-NWC,WNWC0295,2008,WNWC02,9.3 ,15.7 ,4.1 ,2158.2 ,668.2 ,244.4 ,1414.4 ,2880.1 ,small_spike,Dark loessial soils,silty clay loam,16.7,24,142,7.9,180 ,105 ,60 ,4211 ,5532 
+296,W-NWC,WNWC0296,2008,WNWC02,10.0 ,16.4 ,4.8 ,2481.1 ,841.1 ,259.0 ,1507.5 ,3111.4 ,small_spike,Cumulic cinnamon soils,loam,10.4,10.5,110,8.1,150 ,120 ,90 ,2103 ,6842 
+297,W-NWC,WNWC0297,2008,WNWC02,9.9 ,16.3 ,4.7 ,2406.6 ,806.6 ,259.0 ,1491.1 ,3069.3 ,medium_spike,Alluvial?soils,sandy loam,8.8,10.2,260,8,150 ,120 ,90 ,6033 ,6686 
+298,W-NWC,WNWC0298,2008,WNWC02,9.9 ,16.3 ,4.7 ,2398.4 ,808.4 ,253.2 ,1485.3 ,3061.8 ,medium_spike,Alluvial?soils,silt loam,13.2,13.7,220,8.1,180 ,120 ,105 ,4636 ,5170 
+299,W-NWC,WNWC0299,2008,WNWC02,9.8 ,16.3 ,4.6 ,2388.0 ,798.0 ,254.5 ,1484.0 ,3056.2 ,small_spike,Cumulic cinnamon soils,loam,17.4,9.5,160,7.5,150 ,120 ,90 ,2168 ,6786 
+300,W-NWC,WNWC0300,2008,WNWC02,9.8 ,16.3 ,4.6 ,2388.0 ,798.0 ,254.5 ,1484.0 ,3056.2 ,small_spike,Alluvial?soils,loam,11.2,9.2,160,7.9,150 ,120 ,90 ,5377 ,5929 
+301,W-NWC,WNWC0301,2009,WNWC02,8.7 ,14.8 ,3.8 ,2110.9 ,714.1 ,204.7 ,1198.9 ,2653.6 ,small_spike,Alluvial?soils,loam,12.3,20.7,180,8.3,150 ,120 ,105 ,5895 ,6830 
+302,W-NWC,WNWC0302,2009,WNWC02,8.9 ,15.0 ,4.0 ,2205.4 ,758.6 ,223.8 ,1218.7 ,2716.5 ,small_spike,Alluvial?soils,loam,29,16.7,200,8.3,150 ,120 ,105 ,8926 ,9191 
+303,W-NWC,WNWC0303,2009,WNWC02,8.8 ,15.0 ,3.9 ,2164.8 ,738.0 ,223.6 ,1208.4 ,2685.1 ,small_spike,Alluvial?soils,loam,32.4,25.9,240,8.1,150 ,120 ,105 ,7206 ,7770 
+304,W-NWC,WNWC0304,2009,WNWC02,8.9 ,15.0 ,4.0 ,2216.3 ,749.5 ,210.8 ,1215.9 ,2708.1 ,small_spike,Cumulic cinnamon soils,loam,20,11.2,250,8.1,150 ,120 ,105 ,5102 ,5859 
+305,W-NWC,WNWC0305,2009,WNWC02,8.2 ,14.5 ,3.6 ,1984.3 ,671.5 ,245.3 ,1228.7 ,2688.4 ,small_spike,Fluvo-aquic soils,clay,9.1,11.1,171,8.4,240 ,120 ,75 ,3900 ,6750 
+306,W-NWC,WNWC0306,2008,WNWC02,9.3 ,14.4 ,5.4 ,2207.6 ,682.8 ,332.8 ,1384.4 ,2837.7 ,medium_spike,Cultivated loessial soils,sandy loam,15,10,123,8.1,180 ,102 ,135 ,1950 ,3900 
+307,W-NWC,WNWC0307,2008,WNWC02,9.3 ,14.4 ,5.4 ,2207.6 ,682.8 ,332.8 ,1384.4 ,2837.7 ,medium_spike,Cultivated loessial soils,sandy loam,17.8,13.5,181,8.2,150 ,75 ,30 ,4875 ,5550 
+308,W-NWC,WNWC0308,2008,WNWC02,9.5 ,14.6 ,5.6 ,2270.6 ,725.8 ,332.8 ,1409.0 ,2898.0 ,medium_spike,Cumulic cinnamon soils,sandy loam,12,7,137,8.2,120 ,135 ,68 ,2625 ,4950 
+309,W-NWC,WNWC0309,2008,WNWC02,9.5 ,14.7 ,5.6 ,2289.7 ,734.9 ,332.8 ,1417.5 ,2912.9 ,medium_spike,Cumulic cinnamon soils,sandy loam,14,26.1,201,8.2,180 ,90 ,33 ,3300 ,5850 
+310,W-NWC,WNWC0310,2008,WNWC02,9.5 ,14.6 ,5.6 ,2270.6 ,725.8 ,332.8 ,1409.0 ,2898.0 ,medium_spike,Cumulic cinnamon soils,sandy loam,16.9,10.6,204,7.9,150 ,113 ,30 ,3450 ,8175 
+311,W-NWC,WNWC0311,2008,WNWC02,9.1 ,14.3 ,5.3 ,2162.0 ,657.2 ,332.8 ,1365.1 ,2798.0 ,medium_spike,Cumulic cinnamon soils,sandy loam,15,6.6,155,8.1,120 ,135 ,68 ,1650 ,4200 
+312,W-NWC,WNWC0312,2008,WNWC02,8.8 ,13.9 ,5.0 ,2022.4 ,587.6 ,326.7 ,1313.0 ,2676.3 ,medium_spike,Irrigating warped soils,sandy loam,6,4.4,117,8.3,120 ,135 ,135 ,1485 ,2805 
+313,W-NWC,WNWC0313,2009,WNWC02,8.0 ,13.0 ,4.3 ,1935.8 ,641.8 ,219.0 ,1198.2 ,2590.4 ,medium_spike,Cumulic cinnamon soils,sandy loam,12.5,6.9,106,8.1,315 ,210 ,180 ,4700 ,7675 
+314,W-NWC,WNWC0314,2009,WNWC02,8.0 ,13.0 ,4.3 ,1935.8 ,641.8 ,219.0 ,1198.2 ,2590.4 ,medium_spike,Cumulic cinnamon soils,sandy loam,11.8,15.8,149,8.2,270 ,90 ,83 ,4940 ,6035 
+315,W-NWC,WNWC0315,2009,WNWC02,8.0 ,13.0 ,4.3 ,1935.8 ,641.8 ,219.0 ,1198.2 ,2590.4 ,medium_spike,Cumulic cinnamon soils,sandy loam,12.2,8.7,106,8.3,180 ,102 ,135 ,3525 ,5735 
+316,W-NWC,WNWC0316,2009,WNWC02,8.1 ,13.1 ,4.3 ,1952.3 ,648.3 ,219.0 ,1207.5 ,2606.7 ,small_spike,Cumulic cinnamon soils,sandy loam,14.3,11.8,85,8,150 ,113 ,150 ,6315 ,6825 
+317,W-NWC,WNWC0317,2009,WNWC02,8.1 ,13.1 ,4.3 ,1952.3 ,648.3 ,219.0 ,1207.5 ,2606.7 ,small_spike,Cumulic cinnamon soils,sandy loam,14.3,8.2,81,8,180 ,102 ,135 ,5835 ,6460 
+318,W-NWC,WNWC0318,2009,WNWC02,8.1 ,13.1 ,4.3 ,1952.3 ,648.3 ,219.0 ,1207.5 ,2606.7 ,small_spike,Cumulic cinnamon soils,sandy loam,15.7,7.8,129,8,180 ,135 ,83 ,6075 ,7415 
+319,W-NWC,WNWC0319,2008,WNWC02,9.3 ,14.4 ,5.4 ,2198.0 ,683.2 ,330.8 ,1379.7 ,2834.6 ,medium_spike,Irrigating warped soils,sandy loam,14,18.3,187,8.4,180 ,90 ,33 ,3750 ,5700 
+320,W-NWC,WNWC0320,2008,WNWC02,9.3 ,14.4 ,5.4 ,2198.0 ,683.2 ,330.8 ,1379.7 ,2834.6 ,medium_spike,Irrigating warped soils,sandy loam,13,14.1,132,8.3,150 ,75 ,75 ,3000 ,3975 
+321,W-NWC,WNWC0321,2009,WNWC02,8.1 ,13.1 ,4.4 ,1967.8 ,653.8 ,219.0 ,1209.0 ,2613.2 ,medium_spike,Irrigating warped soils,sandy loam,11.8,7.9,122,8.4,270 ,135 ,83 ,5240 ,6850 
+322,W-NWC,WNWC0322,2009,WNWC02,8.1 ,13.1 ,4.4 ,1967.8 ,653.8 ,219.0 ,1209.0 ,2613.2 ,medium_spike,Irrigating warped soils,sandy loam,8.9,36.7,172,8.4,180 ,35 ,68 ,7045 ,8665 
+323,W-NWC,WNWC0323,2008,WNWC02,9.7 ,14.8 ,5.8 ,2357.5 ,772.7 ,342.4 ,1433.0 ,2960.1 ,medium_spike,Cumulic cinnamon soils,sandy loam,24,74.2,151,7.9,90 ,18 ,83 ,7350 ,8250 
+324,W-NWC,WNWC0324,2009,WNWC02,7.9 ,14.4 ,3.0 ,1929.9 ,640.8 ,159.0 ,1097.2 ,2450.3 ,small_spike,Cumulic cinnamon soils,loam,10.9,8.5,120,8.1,210 ,150 ,120 ,6801 ,8051 
+325,W-NWC,WNWC0325,2006,WNWC02,9.2 ,15.5 ,4.1 ,2300.9 ,776.8 ,146.3 ,1623.3 ,3234.4 ,small_spike,Cumulic cinnamon soils,silty clay loam,12.9,23.6,144,8.2,150 ,105 ,45 ,2805 ,5250 
+326,W-NWC,WNWC0326,2006,WNWC02,9.2 ,15.5 ,4.1 ,2300.9 ,776.8 ,146.3 ,1623.3 ,3234.4 ,small_spike,Cultivated loessial soils,silty clay loam,15.1,17.8,128,8.2,150 ,105 ,45 ,2040 ,3705 
+327,W-NWC,WNWC0327,2007,WNWC02,8.1 ,14.1 ,3.3 ,2294.8 ,693.3 ,159.3 ,1678.6 ,3356.9 ,small_spike,Cumulic cinnamon soils,silty clay loam,11.2,5.9,210,8.2,150 ,105 ,45 ,2220 ,3975 
+328,W-NWC,WNWC0328,2007,WNWC02,8.2 ,14.2 ,3.3 ,2322.1 ,710.6 ,159.3 ,1692.1 ,3390.1 ,small_spike,Cumulic cinnamon soils,silty clay loam,18.7,14.8,180,8.3,150 ,105 ,45 ,2250 ,6000 
+329,W-NWC,WNWC0329,2007,WNWC02,7.8 ,13.9 ,3.0 ,2193.5 ,642.0 ,149.9 ,1646.8 ,3281.7 ,small_spike,Cultivated loessial soils,silty clay loam,14.8,20,120,8.1,128 ,90 ,45 ,1965 ,3450 
+330,W-NWC,WNWC0330,2007,WNWC02,7.9 ,14.0 ,3.0 ,2194.5 ,663.0 ,137.0 ,1676.4 ,3327.5 ,small_spike,Cultivated loessial soils,silty clay loam,15.1,17.8,128,8.1,150 ,105 ,45 ,3030 ,4890 
+331,W-NWC,WNWC0331,2007,WNWC02,7.8 ,13.8 ,2.9 ,2141.9 ,630.4 ,137.0 ,1645.2 ,3259.1 ,small_spike,Cumulic cinnamon soils,silty clay loam,12.8,23.6,144,8.2,150 ,105 ,45 ,3023 ,4890 
+332,W-NWC,WNWC0332,2008,WNWC02,8.7 ,15.0 ,3.8 ,2351.5 ,716.0 ,272.4 ,1738.2 ,3407.7 ,small_spike,Cumulic cinnamon soils,silty clay loam,16.8,15.9,190,8.2,150 ,105 ,45 ,2295 ,6120 
+333,W-NWC,WNWC0333,2008,WNWC02,8.6 ,14.9 ,3.7 ,2319.1 ,693.6 ,272.4 ,1720.8 ,3368.6 ,small_spike,Cultivated loessial soils,silty clay loam,11.5,9.9,200,8.2,120 ,90 ,45 ,2100 ,3420 
+334,W-NWC,WNWC0334,2008,WNWC02,8.3 ,14.6 ,3.4 ,2142.4 ,626.5 ,220.3 ,1657.4 ,3216.7 ,small_spike,Cultivated loessial soils,silty clay loam,13.7,9.5,180,8.1,128 ,105 ,45 ,2250 ,4305 
+335,W-NWC,WNWC0335,2009,WNWC02,8.3 ,14.5 ,3.5 ,2287.3 ,783.8 ,188.9 ,1745.8 ,3458.8 ,small_spike,Cultivated loessial soils,silty clay loam,9.4,13.6,140,8.3,150 ,105 ,45 ,2625 ,4725 
+336,W-NWC,WNWC0336,2009,WNWC02,8.7 ,14.9 ,3.8 ,2444.5 ,871.0 ,188.9 ,1812.8 ,3600.1 ,small_spike,Cultivated loessial soils,silty clay loam,13.6,5.2,330,8.2,150 ,105 ,45 ,2100 ,3615 
+337,W-NWC,WNWC0337,2006,WNWC02,9.5 ,15.7 ,4.6 ,2500.5 ,856.4 ,213.3 ,1653.1 ,3336.7 ,small_spike,Cultivated loessial soils,silty clay loam,13.1,13.7,100,8.2,128 ,90 ,45 ,2070 ,3450 
+338,W-NWC,WNWC0338,2008,WNWC02,8.6 ,15.0 ,3.7 ,2283.1 ,707.2 ,220.3 ,1727.0 ,3367.1 ,small_spike,Cultivated loessial soils,silty clay loam,9.5,18.8,120,8.2,150 ,105 ,45 ,2175 ,3870 
+339,W-NWC,WNWC0339,2009,WNWC02,8.5 ,14.7 ,3.7 ,2368.6 ,835.1 ,188.9 ,1774.0 ,3526.3 ,small_spike,Cultivated loessial soils,silty clay loam,11.3,5.6,170,8.2,150 ,105 ,45 ,2220 ,3810 
+340,W-NWC,WNWC0340,2006,WNWC02,9.6 ,15.7 ,4.6 ,2508.7 ,864.6 ,213.3 ,1657.9 ,3347.5 ,small_spike,Cumulic cinnamon soils,silty clay loam,12.6,13.2,70,8.2,128 ,90 ,45 ,2115 ,3945 
+341,W-NWC,WNWC0341,2006,WNWC02,8.9 ,15.2 ,3.9 ,2199.9 ,715.8 ,146.3 ,1585.1 ,3143.7 ,small_spike,Cultivated loessial soils,silty clay loam,12.6,21.5,95,8.3,128 ,90 ,45 ,2460 ,3885 
+342,W-NWC,WNWC0342,2007,WNWC02,8.0 ,14.1 ,3.1 ,2234.7 ,683.2 ,144.0 ,1687.2 ,3359.7 ,small_spike,Cultivated loessial soils,silty clay loam,11.9,10.9,150,8.2,128 ,90 ,45 ,2250 ,4200 
+343,W-NWC,WNWC0343,2008,WNWC02,9.3 ,15.5 ,4.4 ,2596.3 ,850.8 ,292.6 ,1825.4 ,3617.8 ,small_spike,Cultivated loessial soils,silty clay loam,12.4,7.3,150,8.3,105 ,90 ,45 ,2025 ,3060 
+344,W-NWC,WNWC0344,2005,WNWC02,7.5 ,13.8 ,2.1 ,2008.5 ,603.2 ,147.2 ,1814.7 ,3445.6 ,medium_spike,Cultivated loessial soils,loam,16.7,15.2,220,8.1,120 ,90 ,45 ,4485 ,6030 
+345,W-NWC,WNWC0345,2006,WNWC02,8.9 ,15.1 ,3.5 ,2219.5 ,740.9 ,137.7 ,1737.2 ,3371.2 ,medium_spike,Cultivated loessial soils,loam,17.4,20.4,120,8,150 ,105 ,60 ,3000 ,4335 
+346,W-NWC,WNWC0346,2006,WNWC02,8.9 ,15.1 ,3.5 ,2219.5 ,740.9 ,137.7 ,1737.2 ,3371.2 ,medium_spike,Cumulic cinnamon soils,loam,16,23.1,260,8.1,120 ,90 ,30 ,4350 ,4425 
+347,W-NWC,WNWC0347,2008,WNWC02,8.4 ,14.4 ,3.6 ,2271.9 ,665.4 ,310.3 ,1817.0 ,3456.2 ,small_spike,Cultivated loessial soils,loam,10.8,9.8,270,8.1,105 ,75 ,45 ,1875 ,1995 
+348,W-NWC,WNWC0348,2008,WNWC02,8.4 ,14.4 ,3.6 ,2271.9 ,665.4 ,310.3 ,1817.0 ,3456.2 ,small_spike,Cultivated loessial soils,loam,10.8,9.8,270,8.1,120 ,90 ,60 ,1770 ,1935 
+349,W-NWC,WNWC0349,2008,WNWC02,8.4 ,14.4 ,3.6 ,2271.9 ,665.4 ,310.3 ,1817.0 ,3456.2 ,small_spike,Cultivated loessial soils,loam,10.8,9.8,270,8.1,135 ,105 ,75 ,1635 ,1935 
+350,W-NWC,WNWC0350,2005,WNWC02,7.5 ,13.7 ,2.1 ,1964.2 ,588.9 ,147.2 ,1784.8 ,3386.8 ,medium_spike,Cultivated loessial soils,loam,16.1,14.8,215,8.1,120 ,90 ,45 ,4365 ,6105 
+351,W-NWC,WNWC0351,2007,WNWC02,7.8 ,13.4 ,3.0 ,2235.3 ,649.7 ,204.7 ,1637.7 ,3294.1 ,small_spike,Cultivated loessial soils,loam,13,9.8,220,8,120 ,90 ,45 ,4229 ,5460 
+352,W-NWC,WNWC0352,2007,WNWC02,7.8 ,13.4 ,3.0 ,2235.3 ,649.7 ,204.7 ,1637.7 ,3294.1 ,small_spike,Cultivated loessial soils,loam,12.2,8.9,230,8,120 ,90 ,45 ,3912 ,5439 
+353,W-NWC,WNWC0353,2008,WNWC02,9.5 ,15.5 ,4.5 ,2375.3 ,779.6 ,219.9 ,1578.0 ,3117.0 ,small_spike,Cumulic cinnamon soils,loam,27.8,52.3,279,7.5,180 ,150 ,105 ,3495 ,5364 
+354,W-NWC,WNWC0354,2009,WNWC02,8.8 ,14.5 ,4.3 ,2273.8 ,813.0 ,219.0 ,1471.6 ,3015.8 ,small_spike,Cultivated loessial soils,silty clay loam,21.2,12.9,153,8,180 ,150 ,105 ,3750 ,5190 
+355,W-NWC,WNWC0355,2009,WNWC02,9.1 ,14.8 ,4.5 ,2384.5 ,863.7 ,224.4 ,1499.0 ,3086.3 ,small_spike,Cumulic cinnamon soils,loam,16.7,9.7,181,7.8,180 ,150 ,105 ,2801 ,5108 
+356,W-NWC,WNWC0356,2008,WNWC02,9.6 ,15.7 ,4.7 ,2468.8 ,813.1 ,221.5 ,1600.5 ,3168.9 ,small_spike,Cumulic cinnamon soils,silty clay loam,30.6,17.3,323,7.8,120 ,105 ,75 ,3981 ,5217 
+357,W-NWC,WNWC0357,2008,WNWC02,9.3 ,15.3 ,4.4 ,2300.2 ,734.5 ,219.9 ,1543.6 ,3039.9 ,small_spike,Cumulic cinnamon soils,silty clay loam,24.6,18,276,8,120 ,105 ,75 ,3906 ,5142 
+358,W-NWC,WNWC0358,2008,WNWC02,9.5 ,15.6 ,4.6 ,2354.9 ,789.2 ,220.0 ,1585.2 ,3124.8 ,small_spike,Cumulic cinnamon soils,silty clay loam,18.5,13.8,172,7.8,180 ,150 ,105 ,4800 ,7170 
+359,W-NWC,WNWC0359,2009,WNWC02,8.9 ,14.6 ,4.4 ,2312.8 ,822.0 ,224.4 ,1464.7 ,3014.9 ,small_spike,Cultivated loessial soils,silty clay loam,34.7,56.5,217,7.9,150 ,120 ,90 ,3953 ,6123 
+360,W-NWC,WNWC0360,2009,WNWC02,9.1 ,14.8 ,4.5 ,2395.4 ,874.6 ,224.4 ,1499.8 ,3093.3 ,small_spike,Cumulic cinnamon soils,silty clay loam,27.3,25.7,189,7.8,180 ,150 ,120 ,2855 ,4701 
+361,W-NWC,WNWC0361,2008,WNWC02,9.3 ,15.4 ,4.4 ,2308.9 ,743.2 ,219.9 ,1556.4 ,3063.0 ,medium_spike,Cumulic cinnamon soils,silty clay loam,34.5,20.1,349,7.7,150 ,120 ,90 ,3018 ,4827 
+362,W-NWC,WNWC0362,2008,WNWC02,9.7 ,15.7 ,4.8 ,2472.6 ,826.9 ,221.5 ,1607.9 ,3190.8 ,small_spike,Cultivated loessial soils,loam,18,11.7,188,7.9,180 ,150 ,105 ,4200 ,6795 
+363,W-NWC,WNWC0363,2009,WNWC02,8.7 ,14.3 ,4.2 ,2224.2 ,773.4 ,223.3 ,1430.6 ,2930.7 ,small_spike,Cultivated loessial soils,silty clay loam,14.1,14.1,150,7.9,180 ,150 ,105 ,3737 ,5186 
+364,W-NWC,WNWC0364,2008,WNWC02,9.3 ,15.4 ,4.4 ,2324.1 ,748.4 ,219.9 ,1556.4 ,3067.7 ,medium_spike,Cultivated loessial soils,silty clay loam,20.8,17.4,198,7.6,180 ,150 ,105 ,2250 ,3681 
+365,W-NWC,WNWC0365,2009,WNWC02,8.8 ,14.5 ,4.3 ,2287.1 ,806.3 ,224.4 ,1453.5 ,2989.6 ,small_spike,Cultivated loessial soils,silty clay loam,17.6,5.2,173,8,150 ,120 ,90 ,3270 ,4911 
+366,W-NWC,WNWC0366,2009,WNWC02,8.9 ,14.6 ,4.4 ,2338.7 ,837.9 ,224.4 ,1476.6 ,3041.3 ,medium_spike,Cultivated loessial soils,silty clay loam,28.8,12.3,186,7.9,180 ,150 ,120 ,2841 ,5138 
+367,W-NWC,WNWC0367,2007,WNWC02,8.7 ,14.1 ,4.6 ,2290.5 ,710.2 ,163.6 ,1403.4 ,2948.5 ,small_spike,Cultivated loessial soils,loam,11.3,7.5,143,8.3,180 ,150 ,75 ,4688 ,7619 
+368,W-NWC,WNWC0368,2007,WNWC02,8.7 ,14.1 ,4.6 ,2290.5 ,710.2 ,163.6 ,1403.4 ,2948.5 ,small_spike,Alluvial?soils,loam,14.2,8.9,219,8.3,150 ,120 ,60 ,4902 ,7989 
+369,W-NWC,WNWC0369,2008,WNWC02,10.1 ,15.7 ,5.9 ,2701.4 ,910.9 ,291.4 ,1545.9 ,3220.1 ,small_spike,Alluvial?soils,loam,12.6,11.1,196,8.2,210 ,60 ,113 ,5784 ,7988 
+370,W-NWC,WNWC0370,2009,WNWC02,9.2 ,14.8 ,4.9 ,2463.5 ,892.8 ,195.8 ,1411.5 ,2988.5 ,small_spike,Cultivated loessial soils,loam,15.7,8.1,187,8.1,180 ,60 ,75 ,4341 ,5843 
+371,W-NWC,WNWC0371,2009,WNWC02,9.3 ,14.9 ,5.0 ,2492.3 ,911.6 ,195.8 ,1422.1 ,3021.3 ,small_spike,Cumulic cinnamon soils,loam,14.3,10.4,149,8.4,210 ,60 ,113 ,4518 ,7686 
+372,W-NWC,WNWC0372,2007,WNWC02,9.1 ,14.4 ,4.9 ,2424.8 ,784.5 ,172.2 ,1447.2 ,3060.7 ,small_spike,Cumulic cinnamon soils,loam,15.1,7.9,160,8.2,180 ,150 ,75 ,5637 ,8519 
+373,W-NWC,WNWC0373,2008,WNWC02,9.2 ,14.9 ,5.0 ,2280.5 ,710.0 ,223.9 ,1442.2 ,2935.5 ,small_spike,Cumulic cinnamon soils,loam,15.1,11,175,8.6,180 ,150 ,105 ,5003 ,9005 
+374,W-NWC,WNWC0374,2008,WNWC02,10.1 ,15.7 ,5.9 ,2709.2 ,918.7 ,284.3 ,1551.0 ,3230.4 ,small_spike,Cultivated loessial soils,loam,13.2,7.2,189,8.3,210 ,60 ,113 ,5253 ,7512 
+375,W-NWC,WNWC0375,2007,WNWC02,7.8 ,14.1 ,3.1 ,2382.6 ,711.5 ,269.7 ,1827.8 ,3689.9 ,small_spike,Cultivated loessial soils,silty clay loam,5.1,11.2,119,7.2,165 ,120 ,75 ,6315 ,7020 
+376,W-NWC,WNWC0376,2007,WNWC02,7.7 ,13.9 ,3.0 ,2317.0 ,685.9 ,269.7 ,1783.2 ,3606.5 ,small_spike,Cultivated loessial soils,silty clay loam,6.3,8.1,121,6.9,165 ,120 ,75 ,5970 ,7020 
+377,W-NWC,WNWC0377,2007,WNWC02,7.7 ,13.9 ,3.0 ,2317.0 ,685.9 ,269.7 ,1783.2 ,3606.5 ,small_spike,Cultivated loessial soils,silty clay loam,4,11.1,179,7.9,135 ,90 ,60 ,3510 ,4245 
+378,W-NWC,WNWC0378,2007,WNWC02,7.7 ,13.9 ,3.0 ,2317.0 ,685.9 ,269.7 ,1783.2 ,3606.5 ,small_spike,Cultivated loessial soils,silty clay loam,11.1,10.3,186,7,165 ,120 ,75 ,4560 ,5265 
+379,W-NWC,WNWC0379,2008,WNWC02,8.0 ,14.4 ,2.8 ,2191.7 ,653.6 ,274.4 ,1832.0 ,3549.3 ,small_spike,Red earths,silty clay loam,12.7,13.3,165,7.3,180 ,120 ,90 ,2775 ,3600 
+380,W-NWC,WNWC0380,2008,WNWC02,8.0 ,14.4 ,2.8 ,2191.7 ,653.6 ,274.4 ,1832.0 ,3549.3 ,small_spike,Red earths,silty clay loam,15.4,13.7,148,7.4,150 ,90 ,75 ,2730 ,3450 
+381,W-NWC,WNWC0381,2008,WNWC02,8.0 ,14.4 ,2.8 ,2191.7 ,653.6 ,274.4 ,1832.0 ,3549.3 ,small_spike,Red earths,silty clay loam,8.1,11.4,130,7.3,180 ,120 ,90 ,4560 ,5265 
+382,W-NWC,WNWC0382,2008,WNWC02,7.9 ,14.2 ,2.7 ,2147.8 ,619.7 ,274.4 ,1815.4 ,3499.4 ,small_spike,Cultivated loessial soils,silty clay loam,9.4,16.7,176,7.1,180 ,120 ,90 ,4976 ,5481 
+383,W-NWC,WNWC0383,2009,WNWC02,6.7 ,12.9 ,2.0 ,1849.3 ,534.2 ,200.9 ,1487.1 ,3000.1 ,small_spike,Cultivated loessial soils,silt loam,10.1,8.2,63,7.2,180 ,120 ,90 ,1823 ,2060 
+384,W-NWC,WNWC0384,2009,WNWC02,9.6 ,15.1 ,5.7 ,2522.0 ,862.9 ,289.7 ,1266.3 ,2882.1 ,small_spike,Cumulic cinnamon soils,loam,12.3,2.9,107,8,180 ,120 ,90 ,1784 ,6191 
+385,W-NWC,WNWC0385,2009,WNWC02,9.5 ,14.9 ,5.6 ,2437.3 ,818.2 ,289.4 ,1238.5 ,2824.6 ,small_spike,Cumulic cinnamon soils,silt loam,16,14.6,111,7.9,180 ,120 ,90 ,6183 ,9099 
+386,W-NWC,WNWC0386,2009,WNWC02,9.5 ,14.9 ,5.6 ,2432.2 ,823.1 ,286.3 ,1235.3 ,2819.4 ,small_spike,Cumulic cinnamon soils,loam,9.7,2.6,101,7.9,180 ,120 ,90 ,3245 ,4173 
+387,W-NWC,WNWC0387,2009,WNWC02,9.5 ,15.0 ,5.5 ,2386.3 ,827.2 ,257.8 ,1244.1 ,2818.0 ,small_spike,Cumulic cinnamon soils,loam,21.5,15.9,158,7.9,180 ,120 ,90 ,5553 ,7278 
+388,W-NWC,WNWC0388,2009,WNWC02,9.5 ,14.9 ,5.6 ,2458.4 ,829.3 ,289.4 ,1247.6 ,2841.7 ,small_spike,Cumulic cinnamon soils,loam,18.7,13.8,137,7.9,210 ,150 ,90 ,5282 ,7284 
+389,W-NWC,WNWC0389,2009,WNWC02,9.1 ,14.5 ,5.2 ,2266.5 ,727.4 ,281.6 ,1199.6 ,2712.5 ,small_spike,Cultivated loessial soils,clay loam,5.9,14.7,104,7.9,210 ,150 ,90 ,6506 ,7982 
+390,W-NWC,WNWC0390,2009,WNWC02,9.1 ,14.6 ,5.2 ,2223.8 ,744.7 ,257.7 ,1182.1 ,2687.2 ,small_spike,Cumulic cinnamon soils,loam,14.5,33.4,174,8,210 ,150 ,90 ,7142 ,9660 
+391,W-NWC,WNWC0391,2008,WNWC02,7.9 ,15.1 ,2.6 ,2058.6 ,585.0 ,170.8 ,1344.2 ,2888.9 ,small_spike,Alluvial?soils,sandy loam,14.3,12.6,210,7.6,120 ,75 ,60 ,2550 ,4451 
+392,W-NWC,WNWC0392,2008,WNWC02,7.9 ,15.1 ,2.6 ,2058.6 ,585.0 ,170.8 ,1344.2 ,2888.9 ,medium_spike,Fluvo-aquic soils,sandy loam,17.7,25,276,8,120 ,75 ,60 ,2951 ,5051 
+393,W-NWC,WNWC0393,2009,WNWC02,7.1 ,14.1 ,2.0 ,1875.1 ,512.1 ,231.5 ,1345.3 ,2902.7 ,medium_spike,Fluvo-aquic soils,sandy loam,20.6,15.6,261,7.7,150 ,90 ,60 ,3978 ,5330 
+394,W-NWC,WNWC0394,2009,WNWC02,7.7 ,14.7 ,2.6 ,2116.4 ,643.4 ,239.4 ,1425.0 ,3112.4 ,medium_spike,Fluvo-aquic soils,sandy loam,11,23.7,189,7.8,150 ,90 ,60 ,3650 ,5051 
+395,W-NWC,WNWC0395,2008,WNWC02,7.5 ,14.3 ,2.5 ,2019.7 ,535.9 ,177.0 ,1225.0 ,2777.8 ,small_spike,Yellow-cinnamon soils,silty clay loam,13.1,16.5,176,7.4,180 ,150 ,60 ,2739 ,5088 
+396,W-NWC,WNWC0396,2008,WNWC02,7.6 ,14.4 ,2.5 ,2037.3 ,553.5 ,174.3 ,1225.2 ,2788.4 ,small_spike,Cultivated loessial soils,silty clay loam,13.8,8.8,162,8.3,180 ,150 ,60 ,2889 ,5178 
+397,W-NWC,WNWC0397,2008,WNWC02,7.6 ,14.5 ,2.5 ,2040.3 ,566.5 ,156.7 ,1233.8 ,2801.0 ,small_spike,Cultivated loessial soils,silty clay loam,14.5,13.1,123,8.2,180 ,150 ,60 ,3050 ,5346 
+398,W-NWC,WNWC0398,2008,WNWC02,7.6 ,14.6 ,2.5 ,2052.1 ,578.3 ,156.7 ,1236.7 ,2810.9 ,medium_spike,Cultivated loessial soils,silty clay loam,13.6,12.3,148,7.5,180 ,150 ,60 ,2828 ,4704 
+399,W-NWC,WNWC0399,2005,WNWC02,8.9 ,14.5 ,4.8 ,2148.8 ,673.6 ,186.7 ,1095.8 ,2541.6 ,small_spike,Fluvo-aquic soils,silty clay loam,12.8,34.4,157,8.1,180 ,150 ,90 ,6624 ,8742 
+400,W-NWC,WNWC0400,2005,WNWC02,9.1 ,14.6 ,5.0 ,2212.6 ,707.4 ,186.8 ,1095.8 ,2564.0 ,small_spike,Fluvo-aquic soils,silty clay loam,12.8,34.4,157,7.9,180 ,150 ,90 ,6684 ,8850 
+401,W-NWC,WNWC0401,2006,WNWC02,10.2 ,15.9 ,6.1 ,2391.0 ,795.1 ,150.3 ,1126.5 ,2559.6 ,small_spike,Fluvo-aquic soils,sandy loam,12.4,21,168,8.1,180 ,150 ,90 ,5685 ,7335 
+402,W-NWC,WNWC0402,2007,WNWC02,8.6 ,14.1 ,4.5 ,2086.7 ,627.1 ,118.6 ,1178.9 ,2617.3 ,small_spike,Fluvo-aquic soils,silty clay loam,12.1,26.5,173,8.1,180 ,150 ,90 ,7875 ,10065 
+403,W-NWC,WNWC0403,2007,WNWC02,8.9 ,14.4 ,4.8 ,2189.6 ,690.0 ,118.6 ,1220.0 ,2712.8 ,small_spike,Fluvo-aquic soils,silty clay loam,13.4,35.6,197,8.2,180 ,150 ,90 ,6184 ,9099 
+404,W-NWC,WNWC0404,2007,WNWC02,9.0 ,14.5 ,4.8 ,2209.6 ,710.0 ,116.8 ,1229.3 ,2737.9 ,small_spike,Fluvo-aquic soils,sandy loam,12.6,36.5,188,8.2,180 ,150 ,90 ,5520 ,7410 
+405,W-NWC,WNWC0405,2007,WNWC02,8.9 ,14.4 ,4.8 ,2189.6 ,690.0 ,118.6 ,1220.0 ,2712.8 ,small_spike,Cumulic cinnamon soils,silty clay loam,13.4,36.8,186,8.1,180 ,150 ,90 ,6184 ,9099 
+406,W-NWC,WNWC0406,2008,WNWC02,9.5 ,15.1 ,5.5 ,2262.7 ,660.4 ,178.6 ,1038.2 ,2433.8 ,small_spike,Cumulic cinnamon soils,sandy loam,14.6,28.9,185,8.3,180 ,150 ,90 ,6450 ,8520 
+407,W-NWC,WNWC0407,2008,WNWC02,9.7 ,15.4 ,5.6 ,2359.9 ,707.6 ,178.6 ,1077.9 ,2520.9 ,small_spike,Cumulic cinnamon soils,sandy loam,14.2,32.4,194,8.2,180 ,150 ,90 ,6090 ,8190 
+408,W-NWC,WNWC0408,2008,WNWC02,9.8 ,15.6 ,5.8 ,2414.3 ,742.0 ,200.4 ,1094.9 ,2565.8 ,small_spike,Fluvo-aquic soils,sandy loam,12.6,27.5,218,8.2,180 ,150 ,90 ,6405 ,8025 
+409,W-NWC,WNWC0409,2008,WNWC02,9.8 ,15.4 ,5.8 ,2438.3 ,726.0 ,219.9 ,1089.3 ,2559.1 ,small_spike,Cultivated loessial soils,sandy loam,13.4,28.6,189,8.3,180 ,150 ,90 ,6630 ,8520 
+410,W-NWC,WNWC0410,2008,WNWC02,9.9 ,15.5 ,5.9 ,2484.5 ,752.2 ,219.9 ,1101.1 ,2590.4 ,small_spike,Cultivated loessial soils,sandy loam,12.9,35.6,197,8.2,180 ,150 ,90 ,5550 ,7275 
+411,W-NWC,WNWC0411,2008,WNWC02,9.3 ,15.0 ,5.4 ,2190.6 ,628.3 ,178.5 ,1012.8 ,2378.1 ,small_spike,Fluvo-aquic soils,silty clay loam,13.4,35.6,197,8.2,180 ,150 ,90 ,6184 ,9099 
+412,W-NWC,WNWC0412,2008,WNWC02,9.3 ,15.0 ,5.2 ,2004.8 ,631.6 ,161.6 ,947.6 ,2257.9 ,small_spike,Fluvo-aquic soils,silty clay loam,13.1,26.8,198,8.1,180 ,150 ,90 ,5805 ,7620 
+413,W-NWC,WNWC0413,2008,WNWC02,9.8 ,15.5 ,5.7 ,2342.6 ,730.3 ,196.0 ,1068.7 ,2515.3 ,small_spike,Fluvo-aquic soils,silty clay loam,10.6,22.6,196,8.1,180 ,150 ,90 ,3045 ,4155 
+414,W-NWC,WNWC0414,2005,WNWC02,9.0 ,14.4 ,4.8 ,2141.6 ,676.4 ,186.8 ,1079.0 ,2518.9 ,small_spike,Fluvo-aquic soils,silty clay loam,15.4,28.4,187,8,180 ,150 ,90 ,5160 ,8580 
+415,W-NWC,WNWC0415,2006,WNWC02,10.2 ,15.9 ,6.1 ,2391.0 ,795.1 ,150.3 ,1126.5 ,2559.6 ,small_spike,Fluvo-aquic soils,silty clay loam,14.6,32.6,156,8.1,180 ,150 ,90 ,4890 ,8850 
+416,W-NWC,WNWC0416,2007,WNWC02,8.9 ,14.4 ,4.8 ,2202.9 ,693.3 ,118.6 ,1228.5 ,2728.0 ,small_spike,Fluvo-aquic soils,sandy loam,11.1,27.5,194,8.2,180 ,150 ,90 ,6506 ,8636 
+417,W-NWC,WNWC0417,2007,WNWC02,8.6 ,14.0 ,4.5 ,2072.8 ,623.2 ,118.6 ,1169.9 ,2601.6 ,small_spike,Fluvo-aquic soils,sandy loam,12.4,12,167,8.2,180 ,150 ,90 ,3390 ,6150 
+418,W-NWC,WNWC0418,2005,WNWC02,9.1 ,14.6 ,5.0 ,2256.8 ,711.6 ,191.4 ,1105.9 ,2593.0 ,small_spike,Fluvo-aquic soils,sandy loam,12.7,25.6,287,8.2,180 ,150 ,90 ,6450 ,8640 
+419,W-NWC,WNWC0419,2007,WNWC02,8.5 ,13.9 ,4.4 ,2030.1 ,600.5 ,118.6 ,1160.7 ,2572.1 ,small_spike,Fluvo-aquic soils,sandy loam,14.7,46.1,139,8.1,180 ,150 ,90 ,7140 ,9660 
+420,W-NWC,WNWC0420,2005,WNWC02,9.0 ,14.4 ,4.8 ,2141.6 ,676.4 ,186.8 ,1079.0 ,2518.9 ,small_spike,Fluvo-aquic soils,sandy loam,11.4,21,218,8.1,180 ,150 ,90 ,5283 ,6705 
+421,W-NWC,WNWC0421,2006,WNWC02,10.2 ,15.9 ,6.1 ,2391.0 ,795.1 ,150.3 ,1126.5 ,2559.6 ,small_spike,Fluvo-aquic soils,sandy loam,12.8,36.5,178,8.1,180 ,150 ,90 ,5406 ,7308 
+422,W-NWC,WNWC0422,2007,WNWC02,7.4 ,13.2 ,2.7 ,2041.3 ,569.1 ,144.8 ,1340.6 ,2954.5 ,small_spike,Cumulic cinnamon soils,clay,13.2,26.8,118,7.9,180 ,75 ,45 ,4875 ,6525 
+423,W-NWC,WNWC0423,2007,WNWC02,7.4 ,13.2 ,2.7 ,2041.3 ,569.1 ,144.8 ,1340.6 ,2954.5 ,small_spike,Cumulic cinnamon soils,clay,23.1,27.9,95,7.9,210 ,90 ,60 ,5250 ,7125 
+424,W-NWC,WNWC0424,2008,WNWC02,8.1 ,14.0 ,3.5 ,2084.0 ,574.7 ,188.9 ,1437.3 ,3020.5 ,small_spike,Cultivated loessial soils,clay,18.9,26.7,140,8,210 ,75 ,60 ,4695 ,6900 
+425,W-NWC,WNWC0425,2008,WNWC02,8.1 ,13.9 ,3.5 ,2088.1 ,558.8 ,229.1 ,1435.1 ,3018.6 ,small_spike,Cultivated loessial soils,clay,21.1,30.1,142,8,180 ,60 ,45 ,3675 ,5385 
+426,W-NWC,WNWC0426,2008,WNWC02,8.1 ,14.0 ,3.5 ,2084.0 ,574.7 ,188.9 ,1437.3 ,3020.5 ,small_spike,Cumulic cinnamon soils,clay,20.3,20.3,95,8,210 ,75 ,60 ,4620 ,6900 
+427,W-NWC,WNWC0427,2008,WNWC02,8.1 ,14.0 ,3.5 ,2084.0 ,574.7 ,188.9 ,1437.3 ,3020.5 ,small_spike,Cumulic cinnamon soils,clay,19.2,30.5,160,8,210 ,75 ,60 ,4755 ,7545 
+428,W-NWC,WNWC0428,2009,WNWC02,6.9 ,12.9 ,2.3 ,1783.1 ,486.7 ,194.8 ,1313.9 ,2799.3 ,small_spike,Cultivated loessial soils,clay,16.8,33.5,145,8,195 ,90 ,45 ,5739 ,8841 
+429,W-NWC,WNWC0429,2009,WNWC02,6.9 ,12.8 ,2.3 ,1769.8 ,493.4 ,221.0 ,1289.0 ,2770.9 ,small_spike,Cumulic cinnamon soils,clay,16.1,33.8,129,8,225 ,90 ,75 ,5336 ,8171 
+430,W-NWC,WNWC0430,2009,WNWC02,7.1 ,13.0 ,2.4 ,1836.1 ,509.7 ,225.9 ,1317.2 ,2829.6 ,small_spike,Cumulic cinnamon soils,clay,17.1,23.9,158,7.8,195 ,90 ,45 ,5360 ,6893 
+431,W-NWC,WNWC0431,2009,WNWC02,6.9 ,12.8 ,2.3 ,1769.8 ,493.4 ,221.0 ,1289.0 ,2770.9 ,small_spike,Cumulic cinnamon soils,clay,15.5,28.9,131,8,195 ,90 ,45 ,4902 ,5477 
+432,W-NWC,WNWC0432,2009,WNWC02,7.0 ,12.9 ,2.3 ,1797.3 ,500.9 ,221.0 ,1305.1 ,2800.3 ,small_spike,Cumulic cinnamon soils,clay,17.3,30.4,143,7.9,195 ,90 ,45 ,4800 ,6765 
+433,W-NWC,WNWC0433,2009,WNWC02,6.9 ,12.8 ,2.3 ,1769.8 ,493.4 ,221.0 ,1289.0 ,2770.9 ,small_spike,Cumulic cinnamon soils,clay,18,37.6,142,7.9,195 ,90 ,45 ,5003 ,6336 
+434,W-NWC,WNWC0434,2009,WNWC02,7.2 ,13.0 ,2.6 ,1902.4 ,526.0 ,240.6 ,1317.2 ,2853.8 ,small_spike,Cumulic cinnamon soils,clay,14.3,31.3,135,8,180 ,60 ,45 ,4245 ,6600 
+435,W-NWC,WNWC0435,2009,WNWC02,6.9 ,12.8 ,2.3 ,1769.8 ,493.4 ,221.0 ,1289.0 ,2770.9 ,small_spike,Cumulic cinnamon soils,clay,17.1,33.8,167,7.8,195 ,90 ,45 ,4575 ,7500 
+436,W-NWC,WNWC0436,2009,WNWC02,6.9 ,12.8 ,2.3 ,1769.8 ,493.4 ,221.0 ,1289.0 ,2770.9 ,small_spike,Cumulic cinnamon soils,clay,19.5,38.3,184,7.9,195 ,90 ,45 ,4620 ,6900 
+437,W-NWC,WNWC0437,2007,WNWC02,7.4 ,13.2 ,2.7 ,2041.3 ,569.1 ,144.8 ,1340.6 ,2954.5 ,small_spike,Cumulic cinnamon soils,clay,26.8,21.9,95,8,210 ,90 ,60 ,5100 ,7200 
+438,W-NWC,WNWC0438,2008,WNWC02,8.1 ,13.9 ,3.5 ,2088.1 ,558.8 ,229.1 ,1435.1 ,3018.6 ,small_spike,Cultivated loessial soils,clay,16,36.9,116,7.9,210 ,75 ,60 ,3668 ,5739 
+439,W-NWC,WNWC0439,2008,WNWC02,7.9 ,13.7 ,3.3 ,2002.1 ,522.8 ,174.7 ,1412.1 ,2950.6 ,small_spike,Cultivated loessial soils,clay,14.1,28.7,116,7.8,210 ,75 ,60 ,3405 ,6057 
+440,W-NWC,WNWC0440,2008,WNWC02,8.0 ,13.8 ,3.4 ,2046.7 ,537.4 ,219.4 ,1426.0 ,2989.1 ,small_spike,Cultivated loessial soils,clay,16.1,29.3,147,7.9,210 ,75 ,60 ,4572 ,5715 
+441,W-NWC,WNWC0441,2007,WNWC02,7.4 ,13.2 ,2.7 ,2041.3 ,569.1 ,144.8 ,1340.6 ,2954.5 ,small_spike,Cumulic cinnamon soils,clay,24.6,23.5,109,8,210 ,90 ,60 ,5100 ,7275 
+442,W-NWC,WNWC0442,2008,WNWC02,8.1 ,14.0 ,3.6 ,2122.6 ,573.3 ,229.1 ,1454.9 ,3054.5 ,small_spike,Cultivated loessial soils,clay,18.1,28.8,134,8,180 ,60 ,45 ,4550 ,5501 
+443,W-NWC,WNWC0443,2008,WNWC02,8.2 ,14.1 ,3.6 ,2133.4 ,584.1 ,229.1 ,1446.3 ,3051.4 ,small_spike,Cultivated loessial soils,clay,18,29.8,130,8,180 ,60 ,45 ,6075 ,6600 
+444,W-NWC,WNWC0444,2006,WNWC02,9.0 ,15.6 ,4.1 ,2165.9 ,684.7 ,160.6 ,1259.4 ,2764.3 ,small_spike,Cumulic cinnamon soils,loam,19.7,52,195,7.8,165 ,120 ,90 ,4434 ,6938 
+445,W-NWC,WNWC0445,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cumulic cinnamon soils,loam,15.2,23,102,7.8,165 ,120 ,90 ,4506 ,7421 
+446,W-NWC,WNWC0446,2006,WNWC02,9.4 ,16.0 ,4.4 ,2319.2 ,778.0 ,164.2 ,1277.9 ,2843.7 ,small_spike,Cumulic cinnamon soils,loam,14.6,34.4,101,7.6,180 ,150 ,120 ,3546 ,6969 
+447,W-NWC,WNWC0447,2006,WNWC02,9.0 ,15.6 ,4.1 ,2165.9 ,684.7 ,160.6 ,1259.4 ,2764.3 ,small_spike,Cumulic cinnamon soils,loam,16,18.8,101,7.6,180 ,150 ,120 ,4329 ,6995 
+448,W-NWC,WNWC0448,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cumulic cinnamon soils,loam,20.1,26,108,8,165 ,120 ,90 ,5036 ,7802 
+449,W-NWC,WNWC0449,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cumulic cinnamon soils,loam,15.4,27.9,157,7.9,165 ,120 ,90 ,3737 ,7404 
+450,W-NWC,WNWC0450,2008,WNWC02,8.7 ,15.1 ,3.7 ,2202.6 ,631.3 ,191.8 ,1248.8 ,2744.3 ,small_spike,Cumulic cinnamon soils,loam,15.1,26.5,96,7.8,180 ,135 ,60 ,4887 ,7592 
+451,W-NWC,WNWC0451,2008,WNWC02,8.6 ,14.9 ,3.6 ,2163.2 ,601.9 ,191.7 ,1232.0 ,2705.9 ,small_spike,Cumulic cinnamon soils,loam,17.8,28.6,107,7.8,180 ,135 ,75 ,3947 ,7295 
+452,W-NWC,WNWC0452,2008,WNWC02,8.6 ,15.0 ,3.7 ,2190.2 ,618.9 ,191.7 ,1243.9 ,2732.4 ,small_spike,Cumulic cinnamon soils,loam,18.8,34.9,134,7.8,180 ,135 ,75 ,4940 ,8172 
+453,W-NWC,WNWC0453,2006,WNWC02,9.0 ,15.5 ,4.0 ,2147.2 ,676.0 ,160.6 ,1250.9 ,2748.4 ,small_spike,Cumulic cinnamon soils,loam,14,16.2,84,7.6,150 ,90 ,75 ,2721 ,6942 
+454,W-NWC,WNWC0454,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cumulic cinnamon soils,loam,15.6,23.6,71,8,150 ,90 ,75 ,3818 ,6942 
+455,W-NWC,WNWC0455,2006,WNWC02,9.2 ,15.8 ,4.3 ,2290.6 ,739.4 ,160.6 ,1282.5 ,2830.1 ,small_spike,Cumulic cinnamon soils,loam,9,41.5,131,7.8,150 ,90 ,75 ,4295 ,7659 
+456,W-NWC,WNWC0456,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cumulic cinnamon soils,loam,20.6,30,77,7.5,150 ,90 ,75 ,3410 ,7332 
+457,W-NWC,WNWC0457,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cumulic cinnamon soils,loam,23.4,26.7,77,7.6,150 ,90 ,75 ,4064 ,7475 
+458,W-NWC,WNWC0458,2008,WNWC02,8.7 ,15.1 ,3.8 ,2211.9 ,640.6 ,180.0 ,1248.8 ,2746.9 ,small_spike,Cumulic cinnamon soils,loam,18.7,26.8,98,7.9,180 ,135 ,60 ,4941 ,7271 
+459,W-NWC,WNWC0459,2008,WNWC02,8.6 ,15.0 ,3.7 ,2190.2 ,618.9 ,191.7 ,1243.9 ,2732.4 ,small_spike,Cumulic cinnamon soils,loam,16.4,26.4,87,7.8,180 ,135 ,60 ,3774 ,7572 
+460,W-NWC,WNWC0460,2008,WNWC02,8.8 ,15.1 ,3.8 ,2236.7 ,645.4 ,208.0 ,1253.7 ,2763.0 ,small_spike,Cumulic cinnamon soils,loam,19.1,35.6,127,7.9,180 ,135 ,60 ,4149 ,7301 
+461,W-NWC,WNWC0461,2006,WNWC02,9.2 ,15.8 ,4.3 ,2290.6 ,739.4 ,160.6 ,1282.5 ,2830.1 ,small_spike,Cultivated loessial soils,loam,17.9,25,102,7.6,180 ,150 ,120 ,3968 ,7547 
+462,W-NWC,WNWC0462,2006,WNWC02,9.2 ,15.8 ,4.3 ,2290.6 ,739.4 ,160.6 ,1282.5 ,2830.1 ,small_spike,Cultivated loessial soils,loam,16,41.4,102,7.8,180 ,150 ,120 ,3594 ,7791 
+463,W-NWC,WNWC0463,2006,WNWC02,10.9 ,17.4 ,5.9 ,3018.2 ,1167.0 ,229.2 ,1403.7 ,3248.0 ,small_spike,Cultivated loessial soils,loam,18.6,25.8,102,7.6,180 ,135 ,120 ,4305 ,7301 
+464,W-NWC,WNWC0464,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cultivated loessial soils,loam,16.7,40,98,7.6,180 ,135 ,120 ,4211 ,7806 
+465,W-NWC,WNWC0465,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cultivated loessial soils,loam,15.3,30.2,98,7.6,180 ,135 ,120 ,4152 ,8373 
+466,W-NWC,WNWC0466,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cultivated loessial soils,loam,16.2,28.1,98,7.6,180 ,135 ,120 ,4646 ,9143 
+467,W-NWC,WNWC0467,2008,WNWC02,8.6 ,15.0 ,3.7 ,2177.1 ,615.8 ,191.7 ,1239.0 ,2721.1 ,small_spike,Cultivated loessial soils,loam,18.6,26.5,123,7.6,180 ,135 ,90 ,2834 ,6603 
+468,W-NWC,WNWC0468,2008,WNWC02,8.6 ,14.9 ,3.6 ,2163.2 ,601.9 ,191.7 ,1232.0 ,2705.9 ,small_spike,Cultivated loessial soils,loam,19.1,30.4,117,7.6,180 ,135 ,90 ,4802 ,7707 
+469,W-NWC,WNWC0469,2008,WNWC02,8.6 ,15.0 ,3.7 ,2165.4 ,614.1 ,163.7 ,1239.0 ,2716.3 ,small_spike,Cultivated loessial soils,loam,16.3,32.6,123,7.6,180 ,135 ,90 ,4949 ,7827 
+470,W-NWC,WNWC0470,2006,WNWC02,9.2 ,15.8 ,4.2 ,2243.6 ,732.4 ,160.6 ,1275.3 ,2817.1 ,small_spike,Cumulic cinnamon soils,loam,14.1,20.9,201,7.7,180 ,150 ,120 ,4365 ,7299 
+471,W-NWC,WNWC0471,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cumulic cinnamon soils,loam,15.4,21.4,130,7.9,165 ,120 ,90 ,4152 ,7554 
+472,W-NWC,WNWC0472,2007,WNWC02,7.8 ,13.8 ,3.3 ,2092.0 ,562.0 ,150.5 ,1205.3 ,2746.0 ,small_spike,Cumulic cinnamon soils,loam,12.4,28,130,8,165 ,120 ,90 ,4551 ,7445 
+473,W-NWC,WNWC0473,2008,WNWC02,8.8 ,15.2 ,3.9 ,2246.7 ,655.4 ,212.7 ,1253.7 ,2767.0 ,small_spike,Cumulic cinnamon soils,loam,17.6,31.5,102,7.7,180 ,135 ,75 ,4445 ,7008 
+474,W-NWC,WNWC0474,2008,WNWC02,8.8 ,15.1 ,3.8 ,2236.7 ,645.4 ,208.0 ,1253.7 ,2763.0 ,small_spike,Cumulic cinnamon soils,loam,18.6,34.6,129,7.7,180 ,135 ,75 ,4259 ,7427 
+475,W-NWC,WNWC0475,2009,WNWC02,8.3 ,14.9 ,3.9 ,2133.5 ,671.9 ,282.1 ,1274.0 ,2861.5 ,small_spike,Cultivated loessial soils,loam,10.3,12.9,166,8.2,158 ,83 ,60 ,4570 ,8352 
+476,W-NWC,WNWC0476,2009,WNWC02,8.6 ,15.1 ,4.1 ,2229.1 ,717.5 ,298.4 ,1291.9 ,2919.5 ,small_spike,Cultivated loessial soils,loam,12.5,18.2,144,8.1,158 ,83 ,60 ,4853 ,8427 
+477,W-NWC,WNWC0477,2009,WNWC02,8.1 ,14.6 ,3.6 ,2028.6 ,617.0 ,277.7 ,1246.7 ,2783.1 ,small_spike,Cumulic cinnamon soils,silty clay loam,14.2,12.7,161,7.3,158 ,83 ,60 ,4906 ,8505 
+478,W-NWC,WNWC0478,2009,WNWC02,8.4 ,14.9 ,3.8 ,2117.2 ,675.6 ,276.9 ,1280.2 ,2865.8 ,small_spike,Cumulic cinnamon soils,silty clay loam,14.3,16,125,6.8,158 ,83 ,60 ,4551 ,7934 
+479,W-NWC,WNWC0479,2009,WNWC02,8.7 ,15.2 ,4.3 ,2284.9 ,743.3 ,304.2 ,1304.4 ,2956.9 ,small_spike,Cumulic cinnamon soils,silty clay loam,15.2,17.1,140,7.5,158 ,83 ,60 ,4638 ,8661 
+480,W-NWC,WNWC0480,2009,WNWC02,8.1 ,14.6 ,3.7 ,2062.3 ,620.7 ,301.0 ,1241.1 ,2783.3 ,small_spike,Cumulic cinnamon soils,silty clay loam,12.7,14.9,69,7,158 ,83 ,60 ,4450 ,8408 
+481,W-NWC,WNWC0481,2009,WNWC02,7.8 ,14.5 ,3.3 ,1923.5 ,571.9 ,226.8 ,1234.3 ,2721.3 ,small_spike,Fluvo-aquic soils,sandy loam,14.7,17.9,171,8.1,158 ,83 ,60 ,4450 ,8408 
+482,W-NWC,WNWC0482,2009,WNWC02,8.3 ,14.8 ,3.9 ,2135.7 ,664.1 ,293.1 ,1263.2 ,2846.3 ,medium_spike,Cumulic cinnamon soils,silty clay loam,14.2,10.5,133,8.2,158 ,83 ,60 ,4389 ,8305 
+483,W-NWC,WNWC0483,2009,WNWC02,7.9 ,14.5 ,3.5 ,1951.8 ,590.2 ,276.9 ,1227.4 ,2730.8 ,small_spike,Cumulic cinnamon soils,silt loam,14.2,18.3,120,8.3,158 ,83 ,60 ,4494 ,8367 
+484,W-NWC,WNWC0484,2009,WNWC02,8.0 ,14.6 ,3.5 ,1995.6 ,604.0 ,276.9 ,1241.1 ,2762.0 ,small_spike,Cumulic cinnamon soils,silty clay loam,12.2,14.3,105,7.7,158 ,83 ,60 ,5052 ,8628 
+485,W-NWC,WNWC0485,2008,WNWC02,8.3 ,14.7 ,3.4 ,2130.0 ,586.2 ,202.7 ,1261.1 ,2758.6 ,small_spike,Cumulic cinnamon soils,silty clay loam,11.5,18.7,326,8,210 ,135 ,90 ,3975 ,6488 
+486,W-NWC,WNWC0486,2008,WNWC02,8.4 ,14.8 ,3.4 ,2161.2 ,607.4 ,202.7 ,1264.2 ,2775.8 ,small_spike,Cumulic cinnamon soils,silty clay loam,12.5,28.3,202,8.1,210 ,135 ,90 ,4433 ,7209 
+487,W-NWC,WNWC0487,2008,WNWC02,8.4 ,14.8 ,3.5 ,2187.4 ,603.6 ,245.7 ,1285.2 ,2809.9 ,small_spike,Fluvo-aquic soils,sandy loam,15.4,21.8,279,8,210 ,135 ,90 ,4119 ,7338 
+488,W-NWC,WNWC0488,2008,WNWC02,8.3 ,14.7 ,3.3 ,2116.0 ,582.2 ,202.7 ,1254.2 ,2744.8 ,small_spike,Cumulic cinnamon soils,silty clay loam,11.5,18.7,218,8.2,210 ,135 ,90 ,4400 ,7596 
+489,W-NWC,WNWC0489,2009,WNWC02,7.6 ,13.8 ,2.7 ,2044.6 ,596.6 ,260.5 ,1443.7 ,3082.8 ,small_spike,Cumulic cinnamon soils,loam,14.8,10.5,159,7.9,255 ,135 ,90 ,3101 ,7257 
+490,W-NWC,WNWC0490,2009,WNWC02,7.1 ,13.4 ,2.2 ,1820.5 ,502.5 ,224.8 ,1395.6 ,2933.0 ,small_spike,Cumulic cinnamon soils,loam,15.7,19.3,243,8.1,180 ,135 ,75 ,3063 ,5901 
+491,W-NWC,WNWC0491,2008,WNWC02,7.9 ,14.2 ,3.0 ,1962.6 ,498.8 ,183.4 ,1207.3 ,2620.3 ,small_spike,Cumulic cinnamon soils,silty clay loam,14.8,28.3,167,8.1,210 ,135 ,90 ,5445 ,8292 
+492,W-NWC,WNWC0492,2008,WNWC02,8.4 ,14.8 ,3.4 ,2161.2 ,607.4 ,202.7 ,1264.2 ,2775.8 ,small_spike,Cumulic cinnamon soils,silty clay loam,13.7,19,325,8,210 ,135 ,90 ,3903 ,6951 
+493,W-NWC,WNWC0493,2008,WNWC02,8.4 ,14.8 ,3.4 ,2161.2 ,607.4 ,202.7 ,1264.2 ,2775.8 ,small_spike,Cumulic cinnamon soils,clay,15.8,27,189,7.9,210 ,135 ,90 ,4122 ,7316 
+494,W-NWC,WNWC0494,2009,WNWC02,7.4 ,13.6 ,2.4 ,1930.2 ,542.2 ,240.2 ,1419.3 ,2998.9 ,small_spike,Cumulic cinnamon soils,loam,18.2,19.3,181,8,255 ,135 ,90 ,4026 ,7023 
+495,W-NWC,WNWC0495,2008,WNWC02,8.4 ,14.8 ,3.4 ,2138.1 ,594.3 ,202.7 ,1256.4 ,2755.8 ,small_spike,Fluvo-aquic soils,sandy loam,12.3,22.7,105,8,210 ,135 ,90 ,4808 ,8475 
+496,W-NWC,WNWC0496,2009,WNWC02,7.4 ,13.6 ,2.6 ,1962.8 ,554.8 ,260.5 ,1421.3 ,3025.8 ,medium_spike,Fluvo-aquic soils,sandy loam,18.6,30.1,173,7.8,150 ,135 ,120 ,3780 ,8177 
+497,W-NWC,WNWC0497,2007,WNWC02,10.3 ,15.5 ,6.5 ,2377.4 ,731.9 ,240.4 ,870.1 ,2338.3 ,large_spike,Paddy soils,silty clay loam,26.1,21.4,50,6.5,135 ,60 ,60 ,2610 ,5577 
+498,W-NWC,WNWC0498,2007,WNWC02,9.2 ,15.0 ,5.1 ,2001.0 ,514.4 ,146.0 ,922.6 ,2262.8 ,medium_spike,Paddy soils,loam,16.2,33.6,131,6.7,180 ,90 ,75 ,4002 ,5910 
+499,W-NWC,WNWC0499,2009,WNWC02,9.1 ,14.7 ,5.3 ,1977.3 ,482.1 ,220.1 ,794.1 ,2040.4 ,large_spike,Paddy soils,loam,20.1,13.1,102,7.1,143 ,53 ,68 ,1370 ,3771 
+500,W-NWC,WNWC0500,2009,WNWC02,9.3 ,14.8 ,5.4 ,2040.4 ,505.2 ,226.5 ,808.2 ,2075.4 ,medium_spike,Paddy soils,loam,11.3,9.4,112,7.4,143 ,53 ,68 ,1536 ,4253 
+501,W-NWC,WNWC0501,2006,WNWC02,9.8 ,16.0 ,5.5 ,2079.2 ,551.9 ,146.7 ,849.0 ,2089.8 ,medium_spike,Paddy soils,loam,19.2,11,111,6.7,143 ,60 ,60 ,3138 ,4938 
+502,W-NWC,WNWC0502,2007,WNWC02,9.6 ,15.9 ,5.2 ,2091.4 ,559.9 ,163.4 ,920.9 ,2223.7 ,large_spike,Paddy soils,clay loam,18.2,27.3,110,7.3,143 ,53 ,68 ,1610 ,4182 
+503,W-NWC,WNWC0503,2008,WNWC02,9.9 ,15.6 ,6.0 ,2144.5 ,576.7 ,250.6 ,743.5 ,1967.5 ,large_spike,Paddy soils,clay loam,18.2,27.3,110,7.3,143 ,53 ,68 ,2843 ,5286 
+504,W-NWC,WNWC0504,2006,WNWC02,9.8 ,16.0 ,5.4 ,2061.4 ,544.1 ,146.7 ,842.4 ,2077.3 ,large_spike,Paddy soils,loam,21,9,96,8.3,143 ,60 ,60 ,3432 ,4475 
+505,W-NWC,WNWC0505,2009,WNWC02,9.2 ,14.7 ,5.5 ,2060.8 ,495.6 ,231.5 ,791.7 ,2042.2 ,large_spike,Paddy soils,loam,15,10.1,124,7.4,143 ,53 ,68 ,1961 ,4893 
+506,W-NWC,WNWC0506,2006,WNWC02,10.4 ,16.7 ,6.0 ,2283.9 ,686.6 ,180.0 ,899.4 ,2246.4 ,large_spike,Paddy soils,silty clay loam,22.6,14.1,114,6.6,143 ,60 ,60 ,3269 ,4850 
+507,W-NWC,WNWC0507,2007,WNWC02,9.9 ,16.2 ,5.4 ,2139.3 ,617.8 ,158.7 ,930.6 ,2262.0 ,large_spike,Paddy soils,silty clay loam,22.6,14.1,114,6.6,143 ,53 ,68 ,2459 ,5000 
+508,W-NWC,WNWC0508,2009,WNWC02,9.1 ,14.6 ,5.2 ,1951.4 ,466.2 ,220.1 ,785.6 ,2019.5 ,large_spike,Paddy soils,loam,19.2,14.5,134,6.7,143 ,53 ,68 ,1413 ,3722 
+509,W-NWC,WNWC0509,2009,WNWC02,8.9 ,14.4 ,5.1 ,1876.9 ,431.7 ,220.1 ,752.9 ,1948.5 ,large_spike,Paddy soils,loam,20,11.4,99,7.3,143 ,53 ,68 ,1704 ,4820 
+510,W-NWC,WNWC0510,2007,WNWC02,9.6 ,15.9 ,5.2 ,2086.2 ,564.7 ,163.4 ,917.5 ,2221.0 ,large_spike,Paddy soils,silty clay loam,11.2,6.7,127,6.8,143 ,53 ,68 ,2667 ,4907 
+511,W-NWC,WNWC0511,2009,WNWC02,8.7 ,14.3 ,4.9 ,1810.7 ,405.5 ,209.9 ,741.2 ,1911.2 ,large_spike,Paddy soils,loam,17,6.6,117,7.6,143 ,53 ,68 ,2048 ,4724 
+512,W-NWC,WNWC0512,2009,WNWC02,9.1 ,14.6 ,5.2 ,1938.7 ,473.5 ,230.9 ,779.0 ,2012.5 ,large_spike,Paddy soils,silt loam,11.3,6.9,125,6.8,143 ,53 ,68 ,1682 ,4907 
+513,W-NWC,WNWC0513,2007,WNWC02,9.8 ,14.9 ,6.0 ,2171.9 ,595.9 ,150.2 ,801.0 ,2099.7 ,small_spike,Paddy soils,loam,23.9,12,120,7,150 ,75 ,60 ,4253 ,7781 
+514,W-NWC,WNWC0514,2008,WNWC02,9.5 ,14.3 ,6.0 ,2053.5 ,496.3 ,225.9 ,628.8 ,1793.1 ,medium_spike,Paddy soils,clay loam,29.9,25.9,118,7,150 ,60 ,60 ,2346 ,4361 
+515,W-NWC,WNWC0515,2007,WNWC02,9.7 ,14.8 ,6.0 ,2147.7 ,581.7 ,150.2 ,791.2 ,2076.7 ,large_spike,Paddy soils,silty clay loam,11.4,40.8,99,7,150 ,75 ,60 ,4382 ,7149 
+516,W-NWC,WNWC0516,2008,WNWC02,9.6 ,14.4 ,6.1 ,2076.0 ,518.8 ,222.8 ,621.2 ,1804.3 ,medium_spike,Paddy soils,sandy loam,20.1,10.7,113,7,150 ,60 ,60 ,4350 ,6150 
+517,W-NWC,WNWC0517,2008,WNWC02,9.5 ,14.3 ,6.0 ,2044.8 ,507.6 ,222.8 ,620.7 ,1792.2 ,medium_spike,Paddy soils,silty clay loam,24,12,176,7,150 ,60 ,60 ,2138 ,5213 
+518,W-NWC,WNWC0518,2008,WNWC02,9.8 ,14.6 ,6.3 ,2164.5 ,567.3 ,222.8 ,647.8 ,1876.5 ,medium_spike,Paddy soils,silty clay loam,24.2,18,98,7,150 ,60 ,60 ,2309 ,4575 
+519,W-NWC,WNWC0519,2009,WNWC02,9.9 ,14.4 ,6.4 ,2198.6 ,582.1 ,247.8 ,612.0 ,1895.7 ,medium_spike,Paddy soils,sandy loam,28.8,12.1,103,6.8,150 ,60 ,60 ,3348 ,5394 
+520,W-NWC,WNWC0520,2007,WNWC02,9.7 ,14.7 ,5.9 ,2127.7 ,561.7 ,148.6 ,797.2 ,2077.2 ,medium_spike,Paddy soils,clay loam,32.6,35.7,111,6.9,150 ,75 ,60 ,4433 ,6279 
+521,W-NWC,WNWC0521,2008,WNWC02,9.4 ,14.2 ,5.8 ,1962.4 ,485.2 ,215.9 ,609.1 ,1754.7 ,medium_spike,Paddy soils,clay loam,23.5,19.7,178,6.9,150 ,60 ,60 ,2213 ,5288 
+522,W-NWC,WNWC0522,2008,WNWC02,9.7 ,14.5 ,6.2 ,2173.5 ,546.3 ,252.1 ,640.7 ,1857.7 ,medium_spike,Paddy soils,silty clay loam,19,16.1,66,7,150 ,60 ,60 ,2403 ,5700 
+523,W-NWC,WNWC0523,2009,WNWC02,10.8 ,15.4 ,7.4 ,2760.7 ,824.2 ,334.1 ,733.0 ,2209.5 ,medium_spike,Paddy soils,silty clay loam,25.6,14.6,109,6.9,150 ,60 ,60 ,3000 ,4725 
+524,W-NWC,WNWC0524,2008,WNWC02,9.8 ,14.6 ,6.2 ,2168.1 ,560.9 ,222.8 ,642.6 ,1867.5 ,medium_spike,Paddy soils,silty clay loam,32.2,23.2,116,7,150 ,60 ,60 ,2775 ,5585 
+525,W-NWC,WNWC0525,2009,WNWC02,10.0 ,14.5 ,6.5 ,2250.7 ,604.2 ,250.3 ,618.8 ,1919.9 ,medium_spike,Paddy soils,sandy loam,25.3,9.8,145,6.9,150 ,60 ,60 ,3245 ,5223 
+526,W-NWC,WNWC0526,2008,WNWC02,8.2 ,15.4 ,3.0 ,2289.6 ,680.0 ,412.7 ,1436.9 ,3210.5 ,medium_spike,Fluvo-aquic soils,silty clay loam,14.7,31.7,106,7,105 ,75 ,30 ,1770 ,2595 
+527,W-NWC,WNWC0527,2007,WNWC02,6.7 ,13.8 ,1.3 ,1823.1 ,499.7 ,278.1 ,1301.2 ,2908.2 ,small_spike,Alluvial?soils,sandy loam,21.6,9.3,127,7.7,90 ,60 ,30 ,2282 ,2652 
+528,W-NWC,WNWC0528,2008,WNWC02,8.1 ,15.2 ,2.9 ,2187.3 ,647.7 ,407.0 ,1410.4 ,3137.5 ,medium_spike,Alluvial?soils,silty clay loam,16.8,28.2,110,7,105 ,75 ,30 ,1860 ,2730 
+529,W-NWC,WNWC0529,2008,WNWC02,6.9 ,14.0 ,1.8 ,1703.7 ,426.5 ,342.4 ,1236.8 ,2709.2 ,small_spike,Paddy soils,clay,17.9,13.6,202,7.5,180 ,120 ,75 ,3585 ,5075 
+530,W-NWC,WNWC0530,2007,WNWC02,5.3 ,12.5 ,0.0 ,1349.7 ,301.5 ,196.8 ,1166.6 ,2517.6 ,large_spike,Paddy soils,clay,15.6,22.5,60,6.3,240 ,50 ,150 ,4376 ,8051 
+531,W-NWC,WNWC0531,2007,WNWC02,5.6 ,12.6 ,0.2 ,1376.5 ,338.4 ,196.8 ,1150.0 ,2515.6 ,medium_spike,Paddy soils,clay,15.1,23.2,120,6.8,120 ,90 ,120 ,3350 ,5300 
+532,W-NWC,WNWC0532,2007,WNWC02,5.5 ,12.6 ,0.1 ,1442.9 ,280.4 ,209.6 ,1244.5 ,2652.5 ,medium_spike,Fluvo-aquic soils,sandy loam,16.4,16.6,94,7,240 ,50 ,150 ,2910 ,4590 
+533,W-NWC,WNWC0533,2008,WNWC02,6.4 ,13.5 ,1.3 ,1485.2 ,351.5 ,316.6 ,1146.0 ,2494.5 ,medium_spike,Paddy soils,clay,9.5,18.6,202,7,165 ,135 ,90 ,1905 ,3150 
+534,W-NWC,WNWC0534,2009,WNWC02,6.7 ,13.5 ,1.8 ,1714.1 ,476.1 ,376.3 ,1232.2 ,2789.6 ,small_spike,Paddy soils,clay,15.7,13.2,40,7.5,165 ,135 ,90 ,2220 ,3990 
+535,W-NWC,WNWC0535,2006,WNWC02,8.1 ,14.2 ,3.4 ,2214.5 ,665.4 ,201.3 ,1741.8 ,3489.9 ,medium_spike,Cultivated loessial soils,clay,10,18,150,7.8,128 ,90 ,90 ,3660 ,6000 
+536,W-NWC,WNWC0536,2008,WNWC02,6.5 ,12.8 ,1.9 ,1677.0 ,451.3 ,180.7 ,1434.2 ,2919.4 ,medium_spike,Cultivated loessial soils,loam,13.2,18,150,7.1,158 ,60 ,60 ,2775 ,3900 
+537,W-NWC,WNWC0537,2006,WNWC02,7.7 ,14.0 ,2.9 ,1988.5 ,609.4 ,137.3 ,1668.3 ,3320.6 ,medium_spike,Cultivated loessial soils,clay,10,6.2,80,7.2,150 ,90 ,60 ,2550 ,7380 
+538,W-NWC,WNWC0538,2008,WNWC02,6.9 ,13.0 ,2.4 ,1927.7 ,466.2 ,261.0 ,1511.4 ,3104.2 ,medium_spike,Cultivated loessial soils,loam,12.2,15.1,136,7.2,180 ,60 ,90 ,2310 ,7080 
+539,W-NWC,WNWC0539,2008,WNWC02,6.9 ,13.1 ,2.4 ,1903.2 ,498.1 ,215.1 ,1514.2 ,3106.8 ,medium_spike,Cultivated loessial soils,silty clay loam,10.8,17.4,92,7.2,210 ,75 ,105 ,2145 ,3300 
