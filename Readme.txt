@@ -7,7 +7,7 @@ Contact details: qiaolei@caas.cn; Fanms@cau.edu.cn
 
 We used a data-driven approach based on Gradient Boosted Regression Tree (GBRT) algorithm to quantify the benefits of enhanced soil quality on crop yield and its variability for both current and future climates.
 
-Five parts of data and scripts are present in this repository
+Four parts of data and scripts are present in this repository
 
 1. Yield variations and biophysical explanations
 
@@ -57,16 +57,3 @@ Five parts of data and scripts are present in this repository
 
 (2) "RCP_relative yield_change_summary.xlsx": Summary of predicted relative yield change (%) under different climate scenarios for nine cropping systems.
 
-5. Source data for Figures and Extend Data Figures in article.
-
-(1) "SD_Fig 2_RCP_result_high and low soils.xlsx": Projected yield change in high- and low- quality soils resulting from climate change in RCP2.6 and RCP8.5 pathways up to 2040-2059 and 2080-2099 for major cropping systems in China. The source data for Figure 2.
-
-(2) "SD_Fig 3_RCP_production change.csv": Climate-change driven change in cereal production for three soil quality scenarios under RCP2.6 and RCP8.5 pathways up to 2040-2059 and 2080-2099 for major cropping systems in China. The source data for Figure 3.
-
-(3) "SD_ED Fig 2_Relative influnce.csv": The relative contribution (%) of explanatory variables to YieldBMPs assessed by GBRT models in major cropping systems. The source data for Extended Data Figure 2.
-
-(4) "SD_ED Fig 4_climate condition_high and low soils.csv": Comparison of climate variables between locations, where paired on-farm trials were conducted in high- and low- quality soils in major cropping systems of China. The source data for  Extended Data Figure 4.
-
-(5) "SD_ED Fig 5_RCP_result_whole data.xlsx": Projected yield change resulting from climate change in RCP2.6 and RCP8.5 pathways up to 2040-2059 and 2080-2099 for major cropping systems in China. The source data for Extended Data Figure 5.
-
-(6) "SD_ED Fig 6_yield change and difference.csv": Projected yield changes and their difference between high- and low-quality soils by 2040-2059 and 2080-2099 periods under climate change based on RCP 2.6 and RCP 8.5 pathways for major cropping systems in China. The source data for Extended Data Figure 6.
